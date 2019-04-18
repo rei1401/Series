@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" ,[COLOR gold][B]LA CASA DE PAPEL[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" pltv-subgroup="LA CASA DE PAPEL",1x1
+https://www.seuanime.com/players/novo/?contentId=59d8caf8acd46fc9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" pltv-subgroup="LA CASA DE PAPEL",1x2
+https://www.seuanime.com/players/novo/?contentId=de4a7d3d13477b63
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" pltv-subgroup="LA CASA DE PAPEL",1x3
+https://www.seuanime.com/players/novo/?contentId=b5ec9c6987297989
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" pltv-subgroup="LA CASA DE PAPEL",1x4
+https://www.seuanime.com/players/novo/?contentId=d584ac7efa953bde
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" pltv-subgroup="LA CASA DE PAPEL",1x5
+https://www.seuanime.com/players/novo/?contentId=659d73b21ac2be82
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" pltv-subgroup="LA CASA DE PAPEL",1x6
+https://www.seuanime.com/players/novo/?contentId=a42fe33476d90969
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" pltv-subgroup="LA CASA DE PAPEL",1x7
+https://www.seuanime.com/players/novo/?contentId=62de6043fd70ec65
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" pltv-subgroup="LA CASA DE PAPEL",1x8
+https://www.seuanime.com/players/novo/?contentId=65584f0941bec3a7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" pltv-subgroup="LA CASA DE PAPEL",1x9
+https://www.seuanime.com/players/novo/?contentId=815b8cca9b78e1ac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" pltv-subgroup="LA CASA DE PAPEL",1x10
+https://www.seuanime.com/players/novo/?contentId=ca654995081dcf9c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" pltv-subgroup="LA CASA DE PAPEL",1x11
+https://www.seuanime.com/players/novo/?contentId=db31610ea33a68a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" pltv-subgroup="LA CASA DE PAPEL",1x12
+https://www.seuanime.com/players/novo/?contentId=81cc8a045f5afdaf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsb1lEd.png" group-title="SERIES" pltv-subgroup="LA CASA DE PAPEL",1x13
+https://www.seuanime.com/players/novo/?contentId=d1fd79c2bd738ef3
