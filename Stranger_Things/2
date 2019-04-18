@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KmoO4K.png" group-title="SERIES" ,[COLOR gold][B]STRANGER THINGS[/B][/COLOR] [COLOR chocolate][B]02ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KmoO4K.png" group-title="SERIES" pltv-subgroup="STRANGER THINGS",2x1
+https://www.seuanime.com/players/novo/?contentId=a199930fdbe6baa6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KmoO4K.png" group-title="SERIES" pltv-subgroup="STRANGER THINGS",2x2
+https://www.seuanime.com/players/novo/?contentId=23185a38772dc979
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KmoO4K.png" group-title="SERIES" pltv-subgroup="STRANGER THINGS",2x3
+https://www.seuanime.com/players/novo/?contentId=d1abc974c3396c15
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KmoO4K.png" group-title="SERIES" pltv-subgroup="STRANGER THINGS",2x4
+https://www.seuanime.com/players/novo/?contentId=67a78bb10de3a943
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KmoO4K.png" group-title="SERIES" pltv-subgroup="STRANGER THINGS",2x5
+https://www.seuanime.com/players/novo/?contentId=496b6995c704d7b2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KmoO4K.png" group-title="SERIES" pltv-subgroup="STRANGER THINGS",2x6
+https://www.seuanime.com/players/novo/?contentId=7c5400e7ebc3d312
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KmoO4K.png" group-title="SERIES" pltv-subgroup="STRANGER THINGS",2x7
+https://www.seuanime.com/players/novo/?contentId=760f55ad61e26fb0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KmoO4K.png" group-title="SERIES" pltv-subgroup="STRANGER THINGS",2x8
+https://www.seuanime.com/players/novo/?contentId=87b36a2a92b54c8f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KmoO4K.png" group-title="SERIES" pltv-subgroup="STRANGER THINGS",2x9
+https://www.seuanime.com/players/novo/?contentId=224707792e61dc11
