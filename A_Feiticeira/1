@@ -1,0 +1,74 @@
+#EXTM3U
+
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E1
+http://media-br-am.crackle.com/1/h/r6/6bvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E2
+http://media-br-am.crackle.com/1/h/r6/5bvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E3
+http://media-br-am.crackle.com/1/h/r6/7bvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E4
+http://media-br-am.crackle.com/1/i/r6/bcvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E5
+http://media-br-am.crackle.com/1/i/r6/acvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E6
+http://media-br-am.crackle.com/1/o/r6/0cvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E7
+http://media-br-am.crackle.com/1/o/r6/zcvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E8
+http://media-br-am.crackle.com/1/o/r6/ycvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E9
+http://media-br-am.crackle.com/1/n/r6/wcvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E10
+http://media-br-am.crackle.com/1/t/r6/idvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E11
+http://media-br-am.crackle.com/1/n/r6/vcvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E12
+http://media-br-am.crackle.com/1/n/r6/ucvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E13
+http://media-br-am.crackle.com/1/n/r6/tcvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E14
+http://media-br-am.crackle.com/1/a/v6/plvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E15
+http://media-br-am.crackle.com/1/a/v6/olvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E16
+http://media-br-am.crackle.com/1/a/v6/nlvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E17
+http://media-br-am.crackle.com/1/a/v6/mlvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E17
+http://media-br-am.crackle.com/1/z/v6/llvlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E19
+http://media-br-am.crackle.com/1/i/d6/71vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E20
+http://media-br-am.crackle.com/1/j/d6/d2vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E21
+http://media-br-am.crackle.com/1/i/d6/61vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E22
+http://media-br-am.crackle.com/1/h/d6/31vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E23
+http://media-br-am.crackle.com/1/h/d6/51vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E24
+http://media-br-am.crackle.com/1/h/d6/41vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E25
+http://media-br-am.crackle.com/1/j/d6/c2vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E26
+http://media-br-am.crackle.com/1/g/d6/z1vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E27
+http://media-br-am.crackle.com/1/g/d6/01vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E28
+http://media-br-am.crackle.com/1/j/d6/b2vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E29
+http://media-br-am.crackle.com/1/j/d6/a2vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E30
+http://media-br-am.crackle.com/1/i/d6/81vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E31
+http://media-br-am.crackle.com/1/g/d6/11vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E32
+http://media-br-am.crackle.com/1/g/d6/y1vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E33
+http://media-br-am.crackle.com/1/i/d6/91vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E34
+http://media-br-am.crackle.com/1/h/d6/21vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E35
+http://media-br-am.crackle.com/1/f/d6/v1vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+#EXTINF:-1 $ExtFilter="Crackle | Séries" group-title="A Feiticeira" tvg-logo="http://images.comunidades.net/sek/sekairevolution/a_feiticeira_3t.jpg",S1-E36
+http://media-br-am.crackle.com/1/f/d6/u1vlf_480p.mp4|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
