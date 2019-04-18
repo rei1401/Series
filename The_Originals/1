@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" ,[COLOR gold][B]THE ORIGINALS[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x1
+https://www.seuanime.com/players/novo/?contentId=256fb6df24d453ce
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x2
+https://www.seuanime.com/players/novo/?contentId=dfff53109c2fd485
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x3
+https://www.seuanime.com/players/novo/?contentId=dcbb360218980c41
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x4
+https://www.seuanime.com/players/novo/?contentId=501dfe3446ac4c5c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x5
+https://www.seuanime.com/players/novo/?contentId=3789e6f3241c2066
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x6
+https://www.seuanime.com/players/novo/?contentId=01f5e2ece51d0704
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x7
+https://www.seuanime.com/players/novo/?contentId=fa4c0e09856cf68a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x8
+https://www.seuanime.com/players/novo/?contentId=714795d0d7d63dd7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x9
+https://www.seuanime.com/players/novo/?contentId=f96eb4066530e308
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x10
+https://www.seuanime.com/players/novo/?contentId=4555fd316d06b9ed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x11
+https://www.seuanime.com/players/novo/?contentId=ae3d904c0fc7e405
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x12
+https://www.seuanime.com/players/novo/?contentId=1a5f4ca06a77ae22
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x13
+https://www.seuanime.com/players/novo/?contentId=1949793da5bca99a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x14
+https://www.seuanime.com/players/novo/?contentId=b4c304d51edae2ef
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x15
+https://www.seuanime.com/players/novo/?contentId=2982df97c4db35ef
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x16
+https://www.seuanime.com/players/novo/?contentId=7d7d88c9aec6cd17
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x17
+https://www.seuanime.com/players/novo/?contentId=40c0d040eeb2e94c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x18
+https://www.seuanime.com/players/novo/?contentId=50b377659209f3d3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x19
+https://www.seuanime.com/players/novo/?contentId=20bcfd0464459d96
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x20
+https://www.seuanime.com/players/novo/?contentId=590ed804ae3978dd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x21
+https://www.seuanime.com/players/novo/?contentId=bc37a149179da8fb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",1x22
+https://www.seuanime.com/players/novo/?contentId=a45d92a5cb5db0ae

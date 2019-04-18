@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" ,[COLOR gold][B]THE ORIGINALS[/B][/COLOR] [COLOR chocolate][B]04ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",4x1(LEG)
+https://www.seuanime.com/players/novo/?contentId=7d3962851607d970
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",4x2(LEG)
+https://www.seuanime.com/players/novo/?contentId=508053ece6c41240
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",4x3(LEG)
+https://www.seuanime.com/players/novo/?contentId=bca242945f74bfe5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",4x4(LEG)
+https://www.seuanime.com/players/novo/?contentId=e7e876cd72869a84
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",4x5(LEG)
+https://www.seuanime.com/players/novo/?contentId=650459a440cfea22
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",4x6(LEG)
+https://www.seuanime.com/players/novo/?contentId=30c775d20c654f95
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",4x7(LEG)
+https://www.seuanime.com/players/novo/?contentId=b7a0beff246c1564
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",4x8(LEG)
+https://www.seuanime.com/players/novo/?contentId=728547a9ceb2a2c7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",4x9(LEG)
+https://www.seuanime.com/players/novo/?contentId=ffc73a397cec0aa8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",4x10(LEG)
+https://www.seuanime.com/players/novo/?contentId=ccbcba634edb4e0f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",4x11(LEG)
+https://www.seuanime.com/players/novo/?contentId=2fe39625e180250b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",4x12(LEG)
+https://www.seuanime.com/players/novo/?contentId=69ff4c95637139e0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z6x4X43.png" group-title="SERIES" pltv-subgroup="THE ORIGINALS",4x13(LEG)
+https://www.seuanime.com/players/novo/?contentId=4adcd326c677534e
