@@ -1,0 +1,51 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" ,[COLOR gold][B]SUPERGIRL[/B][/COLOR] [COLOR chocolate][B]03ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x1
+https://www.seuanime.com/players/novo/?contentId=eceec9d02358b707
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x2
+https://www.seuanime.com/players/novo/?contentId=fe31f2cd8d2ab25e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x3
+https://www.seuanime.com/players/novo/?contentId=4de0604c50fc3af6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x4
+https://www.seuanime.com/players/novo/?contentId=a5322a30fd04f626
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x5
+https://www.seuanime.com/players/novo/?contentId=1c782a8f2b1d9349
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x6
+https://www.seuanime.com/players/novo/?contentId=2c0a639e7e3fb2a6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x7
+https://www.seuanime.com/players/novo/?contentId=18f2ecd5aa10c999
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x8
+https://www.seuanime.com/players/novo/?contentId=1995f92db66f2b9f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x9
+https://www.seuanime.com/players/novo/?contentId=4bb0c057e8e44d1d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x10
+https://www.seuanime.com/players/novo/?contentId=17d71fa633fd6a6d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x11
+https://www.seuanime.com/players/novo/?contentId=747b6e7518736ff6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x12
+https://www.seuanime.com/players/novo/?contentId=e7a518cb49af6aaf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x13
+https://www.seuanime.com/players/novo/?contentId=80e425939c40fd27
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x14
+https://www.seuanime.com/players/novo/?contentId=5607755af31f940a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x15
+https://www.seuanime.com/players/novo/?contentId=92efe288278b7e23
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x16
+https://www.seuanime.com/players/novo/?contentId=9b869aef8d744d9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x17
+https://www.seuanime.com/players/novo/?contentId=33f692da1c92d73e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x18
+https://www.seuanime.com/players/novo/?contentId=81d3136e46097377
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x19
+https://www.seuanime.com/players/novo/?contentId=da7b2b563df5ff68
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x20
+https://www.seuanime.com/players/novo/?contentId=1152e24fb32d9616
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x21
+https://www.seuanime.com/players/novo/?contentId=9a1754f10fdfada7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x22
+https://www.seuanime.com/players/novo/?contentId=611975cd29214df9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHwV6SQ.png" group-title="SERIES" pltv-subgroup="SUPERGIRL",3x23
+https://www.seuanime.com/players/novo/?contentId=43fc3d126f8a8d68
