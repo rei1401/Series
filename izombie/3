@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3WSD4uT.jpg" group-title="zombie" ,[COLOR gold][B]zombie[/B][/COLOR] [COLOR chocolate][B]03ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie - Legendado", T3|EP1 (LEG)
+https://www.seuanime.com/players/novo/?contentId=5defb588c623f018
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie - Legendado", T3|EP2 (LEG)
+https://www.seuanime.com/players/novo/?contentId=8acb9939c7529246
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie - Legendado", T3|EP3 (LEG)
+https://www.seuanime.com/players/novo/?contentId=55f75553e4918910
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie - Legendado", T3|EP4 (LEG)
+https://www.seuanime.com/players/novo/?contentId=a24e03f96e43d4a4
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie - Legendado", T3|EP5 (LEG)
+https://www.seuanime.com/players/novo/?contentId=d102853091935ca1
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie - Legendado", T3|EP6 (LEG)
+https://www.seuanime.com/players/novo/?contentId=4dfd48e17c84537b
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie - Legendado", T3|EP7 (LEG)
+https://www.seuanime.com/players/novo/?contentId=53254ae6457f7e83
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie - Legendado", T3|EP8 (LEG) 
+https://www.seuanime.com/players/novo/?contentId=3afbc01790bfbe41
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie - Legendado", T3|EP9 (LEG)
+https://www.seuanime.com/players/novo/?contentId=4783a4b358f1cf92
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie - Legendado", T3|EP10 (LEG)
+https://www.seuanime.com/players/novo/?contentId=784ae4c5cb3a0198
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie - Legendado", T3|EP11 (LEG)
+https://www.seuanime.com/players/novo/?contentId=3dd1d4dd0ba0f76a
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie - Legendado", T3|EP12 (LEG)
+https://www.seuanime.com/players/novo/?contentId=262c43484fc45f54
+#EXTINF:-1 tvg-logo="https://goo.gl/FrkBXV" group-title="Izombie - Legendado", T3|EP13 (LEG)
+https://www.seuanime.com/players/novo/?contentId=96a6aa5acb6befdb
