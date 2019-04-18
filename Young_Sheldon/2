@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" ,[COLOR gold][B]YOUNG SHELDON[/B][/COLOR] [COLOR chocolate][B]02ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x1
+https://www.seuanime.com/players/novo/?contentId=f74651a4345f14a7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x2
+https://www.seuanime.com/players/novo/?contentId=abe791480b0bb774
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x3
+https://www.seuanime.com/players/novo/?contentId=ca491307630f3f76
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x4
+https://www.seuanime.com/players/novo/?contentId=cf4f4c43886c21b1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x5
+https://www.seuanime.com/players/novo/?contentId=a0a87081b55df9cc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x6
+https://www.seuanime.com/players/novo/?contentId=fabe8136093f8c1b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x7
+https://www.seuanime.com/players/novo/?contentId=b5ad363648c12a09
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x8
+https://www.seuanime.com/players/novo/?contentId=5f115dbdb6be8faf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x9
+https://www.seuanime.com/players/novo/?contentId=8f4a259bd3f9edd6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x10
+https://www.seuanime.com/players/novo/?contentId=d8bcbc4e15711f6a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x11
+https://www.seuanime.com/players/novo/?contentId=b319b07099cc2930
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x12
+https://www.seuanime.com/players/novo/?contentId=0073d904cf4e0127
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x13
+https://www.seuanime.com/players/novo/?contentId=d32442ae6bd94491
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x14
+https://www.seuanime.com/players/novo/?contentId=4e65d1a6190234b9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x15
+https://www.seuanime.com/players/novo/?contentId=f99bdd47137b0558
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x16
+https://www.seuanime.com/players/novo/?contentId=3a189a81bc6b1c37
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y2WTNMN.png" group-title="SERIES" pltv-subgroup="YOUNG SHELDON",2x17
+https://www.seuanime.com/players/novo/?contentId=d877142037b0d898
+
+
