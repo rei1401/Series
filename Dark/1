@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK4v0ar.jpg" group-title="SERIES" ,[COLOR gold][B]Dark[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK4v0ar.jpg" group-title="Netflix" pltv-subgroup="Dark DUB",1x1-DUB Dark
+https://www.seuanime.com/players/novo/?contentId=217a5d66eda7940c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK4v0ar.jpg" group-title="Netflix" pltv-subgroup="Dark DUB",1x2-DUB Dark
+https://www.seuanime.com/players/novo/?contentId=735d8d8fd8177e1f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK4v0ar.jpg" group-title="Netflix" pltv-subgroup="Dark DUB",1x3-DUB Dark
+https://www.seuanime.com/players/novo/?contentId=fc5e1f9e24013dea
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK4v0ar.jpg" group-title="Netflix" pltv-subgroup="Dark DUB",1x4-DUB Dark
+https://www.seuanime.com/players/novo/?contentId=877e235d5c6b2e34
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK4v0ar.jpg" group-title="Netflix" pltv-subgroup="Dark DUB",1x5-DUB Dark
+https://www.seuanime.com/players/novo/?contentId=c1cee17d808ce0c3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK4v0ar.jpg" group-title="Netflix" pltv-subgroup="Dark DUB",1x6-DUB Dark
+https://www.seuanime.com/players/novo/?contentId=b00231ef0cd1aa31
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK4v0ar.jpg" group-title="Netflix" pltv-subgroup="Dark DUB",1x7-DUB Dark
+https://www.seuanime.com/players/novo/?contentId=fc10ed52d6d12285
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK4v0ar.jpg" group-title="Netflix" pltv-subgroup="Dark DUB",1x8-DUB Dark
+https://www.seuanime.com/players/novo/?contentId=28649f8ab986780b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK4v0ar.jpg" group-title="Netflix" pltv-subgroup="Dark DUB",1x9-DUB Dark
+https://www.seuanime.com/players/novo/?contentId=8ea41f5e6d74f92e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eK4v0ar.jpg" group-title="Netflix" pltv-subgroup="Dark DUB",1x10-DUB Dark
+https://www.seuanime.com/players/novo/?contentId=f9bf945701d0168b
