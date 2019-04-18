@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" ,[COLOR gold][B]BREAKING BAD[/B][/COLOR] [COLOR chocolate][B]04ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",4x1
+https://www.seuanime.com/players/novo/?contentId=e7096fa5172dbc49
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",4x2
+https://www.seuanime.com/players/novo/?contentId=a0731ab8b07df266
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",4x3
+https://www.seuanime.com/players/novo/?contentId=c030a3c01d4f98ca
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",4x4
+https://www.seuanime.com/players/novo/?contentId=aa959a510bfb2482
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",4x5
+https://www.seuanime.com/players/novo/?contentId=d1b10d7b45f6c6e4
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",4x6
+https://www.seuanime.com/players/novo/?contentId=59b3dfdde108fbe1
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",4x7
+https://www.seuanime.com/players/novo/?contentId=f1dc18ec92928bee
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",4x8
+https://www.seuanime.com/players/novo/?contentId=756bad4a16b8417f
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",4x9
+https://www.seuanime.com/players/novo/?contentId=39da1331b1ef62a5
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",4x10
+https://www.seuanime.com/players/novo/?contentId=622d4924aeb4fa02
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",4x11
+https://www.seuanime.com/players/novo/?contentId=147fb5e7eee1c2f3
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",4x12
+https://www.seuanime.com/players/novo/?contentId=fc8c11b78c327747
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",4x13
+https://www.seuanime.com/players/novo/?contentId=d70f888bbad5268d

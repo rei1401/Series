@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" ,[COLOR gold][B]BREAKING BAD[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/klwfd1rsd/Thumbnail_Breaking_Bad.png" group-title="SERIES" pltv-subgroup="BREAKING BAD",1x1
+https://www.seuanime.com/players/novo/?contentId=d61b31ce63821944
+#EXTINF:-1 tvg-logo="https://www.seuanime.com/players/novo/?contentId=" group-title="SERIES" pltv-subgroup="BREAKING BAD",1x2
+https://www.seuanime.com/players/novo/?contentId=b4e28219ff5f38d6
+#EXTINF:-1 tvg-logo="https://www.seuanime.com/players/novo/?contentId=" group-title="SERIES" pltv-subgroup="BREAKING BAD",1x3
+https://www.seuanime.com/players/novo/?contentId=61ced6e6585a2d17
+#EXTINF:-1 tvg-logo="https://www.seuanime.com/players/novo/?contentId=" group-title="SERIES" pltv-subgroup="BREAKING BAD",1x4
+https://www.seuanime.com/players/novo/?contentId=9a417a760bc4afde
+#EXTINF:-1 tvg-logo="https://www.seuanime.com/players/novo/?contentId=" group-title="SERIES" pltv-subgroup="BREAKING BAD",1x5
+https://www.seuanime.com/players/novo/?contentId=92634810ecfa383
+#EXTINF:-1 tvg-logo="https://www.seuanime.com/players/novo/?contentId=" group-title="SERIES" pltv-subgroup="BREAKING BAD",1x6
+https://www.seuanime.com/players/novo/?contentId=55fd3f7e540b564b
+#EXTINF:-1 tvg-logo="https://www.seuanime.com/players/novo/?contentId=" group-title="SERIES" pltv-subgroup="BREAKING BAD",1x7
+https://www.seuanime.com/players/novo/?contentId=27b1cfe3924d213a
