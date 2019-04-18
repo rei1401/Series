@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="SERIES" ,[COLOR gold][B]TEEN WOLF[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP1
+https://www.seuanime.com/players/novo/?contentId=90a6e395f6f3fb88
+#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP2
+https://www.seuanime.com/players/novo/?contentId=5b0ae2014c49b909
+#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP3
+https://www.seuanime.com/players/novo/?contentId=3da1e5c9ee4ba5be
+#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP4
+https://www.seuanime.com/players/novo/?contentId=513dd211f9a775c5
+#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP5
+https://www.seuanime.com/players/novo/?contentId=822c2556d7ad98e6
+#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP6
+https://www.seuanime.com/players/novo/?contentId=a4a3c00aeb1a921a
+#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP7
+https://www.seuanime.com/players/novo/?contentId=b29de35374b7388d
+#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP8
+https://www.seuanime.com/players/novo/?contentId=1ea37de554db7a8f
+#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP9
+https://www.seuanime.com/players/novo/?contentId=126b748b99916482
+#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP10
+https://www.seuanime.com/players/novo/?contentId=9864a48658853964
+#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP11
+https://www.seuanime.com/players/novo/?contentId=0ab06bb3d17f20be
+#EXTINF:-1 tvg-logo="http://bit.ly/2i3ixgS" group-title="TEEN WOLF", TEEN WOLF T1|EP12
+https://www.seuanime.com/players/novo/?contentId=32bac6ef9c9bed1a
