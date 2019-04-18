@@ -1,0 +1,38 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" ,[COLOR gold][B]RIVERDALE[/B][/COLOR] [COLOR chocolate][B]03ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x1
+https://www.seuanime.com/players/novo/?contentId=53ab3572d67b7d04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x2
+https://www.seuanime.com/players/novo/?contentId=2f9e495753aa5993
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x3
+https://www.seuanime.com/players/novo/?contentId=bc4c6694957299f7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x4
+https://www.seuanime.com/players/novo/?contentId=658793236e83f797
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x5
+https://www.seuanime.com/players/novo/?contentId=0cfa4dfdd55071da
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x6
+https://www.seuanime.com/players/novo/?contentId=29446d98d8b3d4fb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x7
+https://www.seuanime.com/players/novo/?contentId=61e468038b82f9ed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x8
+https://www.seuanime.com/players/novo/?contentId=3dddd6a4aa39f0e9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x9
+https://www.seuanime.com/players/novo/?contentId=4f859304735b6b4c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x10
+https://www.seuanime.com/players/novo/?contentId=e67e52093b633fa1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x11
+https://www.seuanime.com/players/novo/?contentId=51556b386f434f3e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x12
+https://www.seuanime.com/players/novo/?contentId=9487eb6559bc3551
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x13
+https://www.seuanime.com/players/novo/?contentId=850b2ef2bf1c706e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x14
+https://www.seuanime.com/players/novo/?contentId=f7f044258b906f90
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x15
+https://www.seuanime.com/players/novo/?contentId=592056ad5ebe4178
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",3x16
+https://www.seuanime.com/players/novo/?contentId=b55732a481f6b2ac
+

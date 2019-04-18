@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" ,[COLOR gold][B]RIVERDALE[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",1x1
+https://www.seuanime.com/players/novo/?contentId=3fe2aa2899d168af
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",1x2
+https://www.seuanime.com/players/novo/?contentId=f5b844099028fea1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",1x3
+https://www.seuanime.com/players/novo/?contentId=61a612d619379a31
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",1x4
+https://www.seuanime.com/players/novo/?contentId=46509e127a4b0262
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",1x5
+https://www.seuanime.com/players/novo/?contentId=8a359db73c2d5179
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",1x6
+https://www.seuanime.com/players/novo/?contentId=9f61278ccc319618
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",1x7
+https://www.seuanime.com/players/novo/?contentId=65121a5ff3a9534a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",1x8
+https://www.seuanime.com/players/novo/?contentId=984b8ce9ece9592f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",1x9
+https://www.seuanime.com/players/novo/?contentId=d8866c0fed4e033
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",1x10
+https://www.seuanime.com/players/novo/?contentId=d33f6b8eb3cfdbd1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",1x11
+https://www.seuanime.com/players/novo/?contentId=5ca4899ed23ecda9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",1x12
+https://www.seuanime.com/players/novo/?contentId=1c77aed1766982e0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aOIVMJ.png" group-title="SERIES" pltv-subgroup="RIVERDALE",1x13
+https://www.seuanime.com/players/novo/?contentId=43afef82420c66d5
