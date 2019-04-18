@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" ,[COLOR gold][B]ARROW[/B][/COLOR] [COLOR chocolate][B]07ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x1
+https://www.seuanime.com/players/novo/?contentId=fc9a3127c1940307
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x2
+https://www.seuanime.com/players/novo/?contentId=bcd5f457879ac701
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x3
+https://www.seuanime.com/players/novo/?contentId=18902cfc40e1c08a
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x4
+https://www.seuanime.com/players/novo/?contentId=9fd79405695a5b0a
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x5
+https://www.seuanime.com/players/novo/?contentId=71f7b2ef2c45fc10
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x6
+https://www.seuanime.com/players/novo/?contentId=787aec0845e2c900
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x7
+https://www.seuanime.com/players/novo/?contentId=a28290d6e3e9b323
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x8
+https://www.seuanime.com/players/novo/?contentId=ce25d987a23f25ab
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x9 - Crossover 2
+https://www.seuanime.com/players/novo/?contentId=8badc05e92ec1760
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x10
+https://www.seuanime.com/players/novo/?contentId=f20065193b33ee27
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x11
+https://www.seuanime.com/players/novo/?contentId=566b39114b106fe3
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x12
+https://www.seuanime.com/players/novo/?contentId=2c686a4d0168f829
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x13
+https://www.seuanime.com/players/novo/?contentId=fedb8ec73df3e577
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x14
+https://www.seuanime.com/players/novo/?contentId=05326045770e245e
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/nmoz1rkvh/Thumbnail_Arrow.png" group-title="SERIES" pltv-subgroup="ARROW",7x15
+https://www.seuanime.com/players/novo/?contentId=de9f3ea2c9dfed2e
