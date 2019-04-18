@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY" ,[COLOR gold][B]COLONY[/B][/COLOR] [COLOR chocolate][B]03ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 3X01
+https://www.seuanime.com/players/novo/?contentId=78c7c9cb388176bf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 3X02
+https://www.seuanime.com/players/novo/?contentId=95efd83a6d722faf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 3X03
+https://www.seuanime.com/players/novo/?contentId=ba60dc0e4e247905
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 3X04 (LEG)
+https://www.seuanime.com/players/novo/?contentId=4f79a6a69b24b3a1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 3X05 (LEG)
+https://www.seuanime.com/players/novo/?contentId=bd6bad21c6ee7f17
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 3X06 (LEG)
+https://www.seuanime.com/players/novo/?contentId=b0e7c560e45ed293
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 3X07 (LEG)
+https://www.seuanime.com/players/novo/?contentId=8dc84e668e3af198
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 3X08 (LEG)
+https://www.seuanime.com/players/novo/?contentId=7b36793a917f9c04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 3X09 (LEG)
+https://www.seuanime.com/players/novo/?contentId=022bb41d9d72bb60
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 3X10 (LEG)
+https://www.seuanime.com/players/novo/?contentId=f15d3840bcb661f7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 3X11 (LEG)
+https://www.seuanime.com/players/novo/?contentId=5bbb4557fcd9ac64
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 3X12 (LEG)
+https://www.seuanime.com/players/novo/?contentId=07a49b85a6bb9fbb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 3X13 (LEG)
+https://www.seuanime.com/players/novo/?contentId=f5204c631ed0edc8

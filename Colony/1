@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY" ,[COLOR gold][B]COLONY[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 1X01
+https://www.seuanime.com/players/novo/?contentId=315aad81afd3e049
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 1X02
+https://www.seuanime.com/players/novo/?contentId=413637617173ce77
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 1X03
+https://www.seuanime.com/players/novo/?contentId=c62217cbd238753a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 1X04
+https://www.seuanime.com/players/novo/?contentId=832905c06aec6a8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 1X05
+https://www.seuanime.com/players/novo/?contentId=a2c38dcd10fd285d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 1X06
+https://www.seuanime.com/players/novo/?contentId=40322fe0939a236f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 1X07
+https://www.seuanime.com/players/novo/?contentId=6ed53d7a1a849776
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 1X08
+https://www.seuanime.com/players/novo/?contentId=a444fa044069f6f5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 1X09
+https://www.seuanime.com/players/novo/?contentId=e1509bc3d6f8f1eb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9LI5tL.png" group-title="COLONY",COLONY 1X10
+https://www.seuanime.com/players/novo/?contentId=dd2eef64bd7ed37
