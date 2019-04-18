@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" ,[COLOR gold][B]SMALLVILLE[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x1
+https://www.seuanime.com/players/novo/?contentId=85d621820cc17302
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x1-1
+https://www.seuanime.com/players/novo/?contentId=9e21036ec637713f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x2
+https://www.seuanime.com/players/novo/?contentId=204b3587ba4dbe1c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x3
+https://www.seuanime.com/players/novo/?contentId=eeea1d53ac51f24d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x4
+https://www.seuanime.com/players/novo/?contentId=318fd7be5a089572
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x5
+https://www.seuanime.com/players/novo/?contentId=ba4d6880caf12be8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x6
+https://www.seuanime.com/players/novo/?contentId=a804e52ec6924ea7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x7
+https://www.seuanime.com/players/novo/?contentId=23c9ed969c7c21f6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x8
+https://www.seuanime.com/players/novo/?contentId=6f683cb686682aab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x9
+https://www.seuanime.com/players/novo/?contentId=5675b0b8d13d08b8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x10
+https://www.seuanime.com/players/novo/?contentId=3139efcb41b4c51
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x11
+https://www.seuanime.com/players/novo/?contentId=8c6308df5028ac9a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x12
+https://www.seuanime.com/players/novo/?contentId=7bdc0cd8fa02d15f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x13
+https://www.seuanime.com/players/novo/?contentId=3212c4f869acf46e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x14
+https://www.seuanime.com/players/novo/?contentId=1a3ce05104f2f60b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x15
+https://www.seuanime.com/players/novo/?contentId=ba60d4b424e2c197
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x16
+https://www.seuanime.com/players/novo/?contentId=d004c64fa0ca1743
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x17
+https://www.seuanime.com/players/novo/?contentId=d49142767ec2055e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x18
+https://www.seuanime.com/players/novo/?contentId=5ac7f3ac8623de81
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x19
+https://www.seuanime.com/players/novo/?contentId=30f129b6dd2f2167
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x20
+https://www.seuanime.com/players/novo/?contentId=902dd17cfaf6c580
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNJ7gZp.png" group-title="SERIES" pltv-subgroup="SMALLVILLE",1x21
+https://www.seuanime.com/players/novo/?contentId=cc4f5c977edd1cfc
