@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" ,[COLOR gold][B]MR ROBOT[/B][/COLOR] [COLOR chocolate][B]02ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",2x1
+https://www.seuanime.com/players/novo/?contentId=edcb74965aa6d97e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",2x2
+https://www.seuanime.com/players/novo/?contentId=8d92490c8d29cde6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",2x3
+https://www.seuanime.com/players/novo/?contentId=a1014cb33dc47119
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",2x4
+https://www.seuanime.com/players/novo/?contentId=b0f4af8a862a855
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",2x5
+https://www.seuanime.com/players/novo/?contentId=edfc0e987b2f7266
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",2x6
+https://www.seuanime.com/players/novo/?contentId=4e21321480b215f8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",2x7
+https://www.seuanime.com/players/novo/?contentId=67cd7f4cb41e7632
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",2x8
+https://www.seuanime.com/players/novo/?contentId=500639a8dabdc25e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",2x9
+https://www.seuanime.com/players/novo/?contentId=67b17a9e015cfd16
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",2x10
+https://www.seuanime.com/players/novo/?contentId=eb28183b5f9034bc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",2x11
+https://www.seuanime.com/players/novo/?contentId=d40222bb68d57c0d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",2x12
+https://www.seuanime.com/players/novo/?contentId=a12b88cf9c47ed32

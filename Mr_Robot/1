@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" ,[COLOR gold][B]MR ROBOT[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",1x1
+https://www.seuanime.com/players/novo/?contentId=a4f1444748a321ed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",1x2
+https://www.seuanime.com/players/novo/?contentId=d9193d19ae482d4b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",1x3
+https://www.seuanime.com/players/novo/?contentId=fc36298872ad4252
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",1x4
+https://www.seuanime.com/players/novo/?contentId=9503f63bb33984e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",1x5
+https://www.seuanime.com/players/novo/?contentId=8c2a9a3b544802f6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",1x6
+https://www.seuanime.com/players/novo/?contentId=f9b82a0d5bf7d931
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",1x7
+https://www.seuanime.com/players/novo/?contentId=5b07645797fc0935
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",1x8
+https://www.seuanime.com/players/novo/?contentId=7d5b01c8205f383
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",1x9
+https://www.seuanime.com/players/novo/?contentId=da5c984f5116bc1f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5O7Fifo.png" group-title="SERIES" pltv-subgroup="MR ROBOT",1x10
+https://www.seuanime.com/players/novo/?contentId=297f1a232b72621e
