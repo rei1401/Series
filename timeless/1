@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,[COLOR gold][B]Timeless[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x1
+https://www.seuanime.com/players/novo/?contentId=91b18a29ec4c36c4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x2
+https://www.seuanime.com/players/novo/?contentId=41faaffff676daf7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x3
+https://www.seuanime.com/players/novo/?contentId=858b6a2b028b9e90
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x4
+https://www.seuanime.com/players/novo/?contentId=7b4f4c53ac56537f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x5
+https://www.seuanime.com/players/novo/?contentId=f7b6c2dc5082d6f8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x6
+https://www.seuanime.com/players/novo/?contentId=25f89dcde04caeac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x7
+https://www.seuanime.com/players/novo/?contentId=ccb0747320e68e48
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x8
+https://www.seuanime.com/players/novo/?contentId=029fe6b282889fbe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x9
+https://www.seuanime.com/players/novo/?contentId=a6117c3c7befdb88
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x10
+https://www.seuanime.com/players/novo/?contentId=a1a50140d31cbc91
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x11
+https://www.seuanime.com/players/novo/?contentId=83ac9512aa360e96
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x12
+https://www.seuanime.com/players/novo/?contentId=9dc6d2bc1c137d87
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x13
+https://www.seuanime.com/players/novo/?contentId=f5c31dd2bb9b9a79
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x14
+https://www.seuanime.com/players/novo/?contentId=842c9a9d7749150a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x15
+https://www.seuanime.com/players/novo/?contentId=ad89a016fc851dee
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dDphxDs.jpg" group-title="Timeless" ,1x16
+https://www.seuanime.com/players/novo/?contentId=37a4a07fef2a4463
