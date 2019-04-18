@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="Serie" ,[COLOR gold][B]iCarly[/B][/COLOR] [COLOR chocolate][B]07ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T7|EP1 & 2
+https://www.seuanime.com/players/novo/?contentId=f5b3071b9fd85090
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T7|EP3
+https://www.seuanime.com/players/novo/?contentId=869b6b5c233260be
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T7|EP4
+https://www.seuanime.com/players/novo/?contentId=573c002007a80a8f
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T7|EP5
+https://www.seuanime.com/players/novo/?contentId=5bcd09ad51868fae
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T7|EP6
+https://www.seuanime.com/players/novo/?contentId=6469331e1c1814b0
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T7|EP7
+https://www.seuanime.com/players/novo/?contentId=26bf632064506f19
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T7|EP8 & 9 (Season Finale)
+https://www.seuanime.com/players/novo/?contentId=204f4eb53e462a13

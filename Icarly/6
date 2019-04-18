@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="Serie" ,[COLOR gold][B]iCarly[/B][/COLOR] [COLOR chocolate][B]06ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP1
+https://www.seuanime.com/players/novo/?contentId=1d3fbf7568e82a9b
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP2
+https://www.seuanime.com/players/novo/?contentId=f9ece0b0c5b9ffe1
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP3
+https://www.seuanime.com/players/novo/?contentId=c2bc1718e5ad9cbe
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP4
+https://www.seuanime.com/players/novo/?contentId=eb4c317f1da401f9
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP5
+https://www.seuanime.com/players/novo/?contentId=3e84f1c665fe83
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP6
+https://www.seuanime.com/players/novo/?contentId=1f1fe2142a4e967e
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP7.1
+https://www.seuanime.com/players/novo/?contentId=14cae30da638a623
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP7.2
+https://www.seuanime.com/players/novo/?contentId=1f39f5e6ca8fd475
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP8
+https://www.seuanime.com/players/novo/?contentId=fdfc7c38cdfbf856
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP9
+https://www.seuanime.com/players/novo/?contentId=c5b8b132cc9311e
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP10
+https://www.seuanime.com/players/novo/?contentId=2f63e9e1fa9c4fb4
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP11
+https://www.seuanime.com/players/novo/?contentId=7101172af9668483
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP12
+https://www.seuanime.com/players/novo/?contentId=37e444bdb83a5ea5
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T6|EP13
+https://www.seuanime.com/players/novo/?contentId=c1f264d1ec5e539c

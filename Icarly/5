@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="Serie" ,[COLOR gold][B]iCarly[/B][/COLOR] [COLOR chocolate][B]05ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T5|EP1
+https://www.seuanime.com/players/novo/?contentId=526dd0a0a36d0e98
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T5|EP2
+https://www.seuanime.com/players/novo/?contentId=62864aadcb59cef8
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T5|EP3
+https://www.seuanime.com/players/novo/?contentId=20953a4c3c94dcd1
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T5|EP4
+https://www.seuanime.com/players/novo/?contentId=7d976d3f0d138e02
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T5|EP5
+https://www.seuanime.com/players/novo/?contentId=f09ebe297c1d7395
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T5|EP6
+https://www.seuanime.com/players/novo/?contentId=b0fbe546ab53b945
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T5|EP7
+https://www.seuanime.com/players/novo/?contentId=43a36b4c3eb25c7b
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T5|EP8
+https://www.seuanime.com/players/novo/?contentId=6e3db0f3cc8791d0
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T5|EP9
+https://www.seuanime.com/players/novo/?contentId=f50ed7519474a86f
+#EXTINF:-1 tvg-logo="https://goo.gl/Ke1dbZ" group-title="(iCarly - Dublado)", T5|EP10
+https://www.seuanime.com/players/novo/?contentId=64079636403a328e
