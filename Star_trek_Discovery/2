@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPKoUxA.jpg" group-title="STAR TREK DISCOVERY" ,[COLOR gold][B]STAR TREK DISCOVERY[/B][/COLOR] [COLOR chocolate][B]02ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPKoUxA.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 2 DUBLADO",2x1
+https://www.seuanime.com/players/novo/?contentId=b02c32a8eff7ad33
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPKoUxA.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 2 DUBLADO",2x2
+https://www.seuanime.com/players/novo/?contentId=1f533b7b20a676f8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPKoUxA.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 2 DUBLADO",2x3
+https://www.seuanime.com/players/novo/?contentId=382c53cc2371039d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPKoUxA.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 2 DUBLADO",2x4
+https://www.seuanime.com/players/novo/?contentId=024dc069e39e1818
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPKoUxA.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 2 DUBLADO",2x5
+https://www.seuanime.com/players/novo/?contentId=a3687b5c53d2441e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPKoUxA.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 2 DUBLADO",2x6
+https://www.seuanime.com/players/novo/?contentId=00a283a6329e980c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPKoUxA.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 2 DUBLADO",2x7
+https://www.seuanime.com/players/novo/?contentId=3a1eedc291373319
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPKoUxA.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 2 DUBLADO",2x8
+https://www.seuanime.com/players/novo/?contentId=768d00d151b1c735
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPKoUxA.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 2 DUBLADO",2x9
+https://www.seuanime.com/players/novo/?contentId=8b6fa73a404458ac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPKoUxA.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 2 DUBLADO",2x10
+https://www.seuanime.com/players/novo/?contentId=6f58956f41e12c40

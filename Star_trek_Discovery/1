@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" ,[COLOR gold][B]STAR TREK DISCOVERY[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x1
+https://www.seuanime.com/players/novo/?contentId=acb68db4477c2b5c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x2
+https://www.seuanime.com/players/novo/?contentId=6add3629a5600e94
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x3
+https://www.seuanime.com/players/novo/?contentId=ae7bb672331f3af4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x4
+https://www.seuanime.com/players/novo/?contentId=686c260308c180b1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x5
+https://www.seuanime.com/players/novo/?contentId=e80081c050f4dbdf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x6
+https://www.seuanime.com/players/novo/?contentId=38fc3a511a2bbacc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x7
+https://www.seuanime.com/players/novo/?contentId=53acfd2ff14b6f92
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x8
+https://www.seuanime.com/players/novo/?contentId=c4110402f40c76e9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x9
+https://www.seuanime.com/players/novo/?contentId=2c850307fc4b06a8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x10
+https://www.seuanime.com/players/novo/?contentId=687534586371e3b2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x11
+https://www.seuanime.com/players/novo/?contentId=0ca3015ee2997b32
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x12
+https://www.seuanime.com/players/novo/?contentId=eee0ffad7474a304
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x13
+https://www.seuanime.com/players/novo/?contentId=3a382fb2754406b5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x14
+https://www.seuanime.com/players/novo/?contentId=255cff335badc564
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo1shP6.jpg" group-title="STAR TREK DISCOVERY" pltv-subgroup="TEMPORADA 1 DUBLADO",1x15
+https://www.seuanime.com/players/novo/?contentId=10ae81d5f6646652
