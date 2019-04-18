@@ -1,0 +1,53 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title="Lost" ,[COLOR gold][B]Lost[/B][/COLOR] [COLOR chocolate][B]02ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x1
+https://www.seuanime.com/players/novo/?contentId=de96cfe023889331 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x2
+https://www.seuanime.com/players/novo/?contentId=837a0156f785feb2 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x3
+https://www.seuanime.com/players/novo/?contentId=d8996589c28272bd 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x4
+https://www.seuanime.com/players/novo/?contentId=8db169efc4ad80e5 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x5
+https://www.seuanime.com/players/novo/?contentId=2c97856a6190385a 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x6
+https://www.seuanime.com/players/novo/?contentId=a53420ee8d2c7f42 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x7
+https://www.seuanime.com/players/novo/?contentId=4959f6abb082facf 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x8
+https://www.seuanime.com/players/novo/?contentId=57808b368e783c9a 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x9
+https://www.seuanime.com/players/novo/?contentId=793a0a8f7c42fc7d 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x10
+https://www.seuanime.com/players/novo/?contentId=5e5e007d08ff794d 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x11
+https://www.seuanime.com/players/novo/?contentId=372d8b84c88cb6be 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x12
+https://www.seuanime.com/players/novo/?contentId=1a768d085d51622d 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x13
+https://www.seuanime.com/players/novo/?contentId=90940e1d8de25366 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x14
+https://www.seuanime.com/players/novo/?contentId=5157bd79ae0ff77f 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x15
+https://www.seuanime.com/players/novo/?contentId=21efe9c1ddb30bbc 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x16
+https://www.seuanime.com/players/novo/?contentId=3f49e28aed5d982e 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x17
+https://www.seuanime.com/players/novo/?contentId=54c15fbfeabd09ba 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x18
+https://www.seuanime.com/players/novo/?contentId=1cc6ba56cab9cd56 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x19
+https://www.seuanime.com/players/novo/?contentId=6d88fdbea539a518 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x20
+https://www.seuanime.com/players/novo/?contentId=17463d6f6987db1e 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x21
+https://www.seuanime.com/players/novo/?contentId=dd72df4755b2035e 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x22
+https://www.seuanime.com/players/novo/?contentId=ea1c93cc3160ef3e 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x23
+https://www.seuanime.com/players/novo/?contentId=57abb76b821b202b 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="2ª Temporada",2x24
+https://www.seuanime.com/players/novo/?contentId=86f464fbe499cfdd 

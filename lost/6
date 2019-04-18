@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title="Lost" ,[COLOR gold][B]Lost[/B][/COLOR] [COLOR chocolate][B]06ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x1
+https://www.seuanime.com/players/novo/?contentId=96d77d9160827732 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x2
+https://www.seuanime.com/players/novo/?contentId=5a0a018f06351f88 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x3
+https://www.seuanime.com/players/novo/?contentId=65e38ed2d1f8d5dc 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x4
+https://www.seuanime.com/players/novo/?contentId=afd93057abedff5b 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x5
+https://www.seuanime.com/players/novo/?contentId=f7192cc7755663b3 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x6
+https://www.seuanime.com/players/novo/?contentId=7de25bdb99725c5c 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x7
+https://www.seuanime.com/players/novo/?contentId=d443202232cb7b23 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x8
+https://www.seuanime.com/players/novo/?contentId=8525da6a035b1b2d 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x9
+https://www.seuanime.com/players/novo/?contentId=1b7de2212aae5a8f 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x10
+https://www.seuanime.com/players/novo/?contentId=d1af811805bac034 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x11
+https://www.seuanime.com/players/novo/?contentId=26d81640d4dc8d54 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x12
+https://www.seuanime.com/players/novo/?contentId=af124d66cd1cf582 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x13
+https://www.seuanime.com/players/novo/?contentId=e7484ef134bbec1f 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x14
+https://www.seuanime.com/players/novo/?contentId=7a08c1b3d04dfa98 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x15
+https://www.seuanime.com/players/novo/?contentId=ef820e012fdd93db 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x16
+https://www.seuanime.com/players/novo/?contentId=b21132924f2ee334 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x17
+https://www.seuanime.com/players/novo/?contentId=8b3743007ae23808 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x18
+https://www.seuanime.com/players/novo/?contentId=7fde168a55094c0 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="6ª Temporada",6x19 (LEG) Serie Finalizada
+https://www.seuanime.com/players/novo/?contentId=24cec422755857f9 

@@ -1,0 +1,51 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title="Lost" ,[COLOR gold][B]Lost[/B][/COLOR] [COLOR chocolate][B]03ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x1
+https://www.seuanime.com/players/novo/?contentId=d735258fcf8ded53 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x2
+https://www.seuanime.com/players/novo/?contentId=e18b54cbd53318b5 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x3
+https://www.seuanime.com/players/novo/?contentId=1b25d8072e4cc15f 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x4
+https://www.seuanime.com/players/novo/?contentId=725d3ce5616a57bc 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x5
+https://www.seuanime.com/players/novo/?contentId=ac655c9b40246e4a 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x6
+https://www.seuanime.com/players/novo/?contentId=6e18933a98062831 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x7
+https://www.seuanime.com/players/novo/?contentId=de0d4c3c403b9b8b 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x8
+https://www.seuanime.com/players/novo/?contentId=6fc7ae5daae6b861 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x9
+https://www.seuanime.com/players/novo/?contentId=6b1bee7e6f1274c7 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x10
+https://www.seuanime.com/players/novo/?contentId=bc7440f0d4237a19 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x11
+https://www.seuanime.com/players/novo/?contentId=ed5b0eddc8cc8095 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x12
+https://www.seuanime.com/players/novo/?contentId=3c13df7f4dc5946a 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x13
+https://www.seuanime.com/players/novo/?contentId=3d73d3c2eead29e0 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x14
+https://www.seuanime.com/players/novo/?contentId=b9803836daee0238 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x15
+https://www.seuanime.com/players/novo/?contentId=49c8d176b3b27c84 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x16
+https://www.seuanime.com/players/novo/?contentId=78284462fb5c7d3c 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x17
+https://www.seuanime.com/players/novo/?contentId=eaa8e6ce4ba7efad 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x18
+https://www.seuanime.com/players/novo/?contentId=b49f0979ec59fd64 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x19
+https://www.seuanime.com/players/novo/?contentId=71d41dd7daf84130 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x20
+https://www.seuanime.com/players/novo/?contentId=bfb3c06fa280750c 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x21
+https://www.seuanime.com/players/novo/?contentId=e8762edb7ff21007 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x22
+https://www.seuanime.com/players/novo/?contentId=e0e850275f1d76bd 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="3ª Temporada",3x23
+https://www.seuanime.com/players/novo/?contentId=b902c2b90e52a228 

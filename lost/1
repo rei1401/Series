@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title="Lost" ,[COLOR gold][B]Lost[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x1
+https://www.seuanime.com/players/novo/?contentId=6ae1a1c7cfec0756 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x2
+https://www.seuanime.com/players/novo/?contentId=8bca5fa8189e277a 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x3
+https://www.seuanime.com/players/novo/?contentId=d6586dadf47ea9d2 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x4
+https://www.seuanime.com/players/novo/?contentId=7fd391a5b3ac80d9 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x5
+https://www.seuanime.com/players/novo/?contentId=3a27c54c4b1f95eb 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x6
+https://www.seuanime.com/players/novo/?contentId=8d6e25de09c63a31 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x7
+https://www.seuanime.com/players/novo/?contentId=d7cff9c76b90a914 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x8
+https://www.seuanime.com/players/novo/?contentId=39b145c2bd67f09a 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x9
+https://www.seuanime.com/players/novo/?contentId=665ff42fee60f274 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x10
+https://www.seuanime.com/players/novo/?contentId=1d2163cfc1ce998c 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x11
+https://www.seuanime.com/players/novo/?contentId=ee30135485b6967c 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x12
+https://www.seuanime.com/players/novo/?contentId=d9e732e351a96ffa 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x13
+https://www.seuanime.com/players/novo/?contentId=86e424255359f9bb 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x14
+https://www.seuanime.com/players/novo/?contentId=24ae25542f06e99e 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x15
+https://www.seuanime.com/players/novo/?contentId=6a57c164397c58bb 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x16
+https://www.seuanime.com/players/novo/?contentId=8dc124bc33470c49 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x17
+https://www.seuanime.com/players/novo/?contentId=e1757731c835d47 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x18
+https://www.seuanime.com/players/novo/?contentId=52b17434ed4935d5 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x19
+https://www.seuanime.com/players/novo/?contentId=a1874c0429ad9f5c 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x20
+https://www.seuanime.com/players/novo/?contentId=95eef580e0fc0a96 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x21
+https://www.seuanime.com/players/novo/?contentId=1e8e1ab84a145bdf 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x22
+https://www.seuanime.com/players/novo/?contentId=cdaea094c4e09590 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x23
+https://www.seuanime.com/players/novo/?contentId=5f1dd3d9d3804e17 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x24
+https://www.seuanime.com/players/novo/?contentId=9f2e4daedcbd08bc 
+#EXTINF:-1 tvg-logo="https://goo.gl/5JsRLE" group-title=" Lost.", pltv-subgroup="1ª Temporada",1x25
+https://www.seuanime.com/players/novo/?contentId=4c8aabe0e691f186
