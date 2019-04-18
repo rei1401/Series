@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9zmmwplvx/Thumbnail_Inumanos.png" group-title="SERIES" ,[COLOR gold][B]MARVEL INUMANOS[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9zmmwplvx/Thumbnail_Inumanos.png" group-title="SERIES" pltv-subgroup="INUMANOS",1x1 MARVEL INUMANOS
+https://www.seuanime.com/players/novo/?contentId=c81ac5ee13924147
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9zmmwplvx/Thumbnail_Inumanos.png" group-title="SERIES" pltv-subgroup="INUMANOS",1x2 MARVEL INUMANOS
+https://www.seuanime.com/players/novo/?contentId=fbd9e7b1edc8fdca
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9zmmwplvx/Thumbnail_Inumanos.png" group-title="SERIES" pltv-subgroup="INUMANOS",1x3 MARVEL INUMANOS
+https://www.seuanime.com/players/novo/?contentId=cadd94939e1a7fe8 
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9zmmwplvx/Thumbnail_Inumanos.png" group-title="SERIES" pltv-subgroup="INUMANOS",1x4 MARVEL INUMANOS
+https://www.seuanime.com/players/novo/?contentId=c843d9d8287df206
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9zmmwplvx/Thumbnail_Inumanos.png" group-title="SERIES" pltv-subgroup="INUMANOS",1x5 MARVEL INUMANOS
+https://www.seuanime.com/players/novo/?contentId=de14d33966237bc4
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9zmmwplvx/Thumbnail_Inumanos.png" group-title="SERIES" pltv-subgroup="INUMANOS",1x6 MARVEL INUMANOS
+https://www.seuanime.com/players/novo/?contentId=84739319855eb90a
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9zmmwplvx/Thumbnail_Inumanos.png" group-title="SERIES" pltv-subgroup="INUMANOS",1x7 MARVEL INUMANOS
+https://www.seuanime.com/players/novo/?contentId=9ba421032ffe6917
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/9zmmwplvx/Thumbnail_Inumanos.png" group-title="SERIES" pltv-subgroup="INUMANOS",1x8 MARVEL INUMANOS
+https://www.seuanime.com/players/novo/?contentId=bd9a09a20a778179
