@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIavofX.png" group-title="SERIES" ,[COLOR gold][B]GREYS ANATOMY[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIavofX.png" group-title="SERIES" pltv-subgroup="GREYS ANATOMY",1x1 
+https://www.seuanime.com/players/novo/?contentId=e48d26974c9d46c6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIavofX.png" group-title="SERIES" pltv-subgroup="GREYS ANATOMY",1x2 
+https://www.seuanime.com/players/novo/?contentId=e84a465f6ee8175e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIavofX.png" group-title="SERIES" pltv-subgroup="GREYS ANATOMY",1x3 
+https://www.seuanime.com/players/novo/?contentId=afb46328f3a3d08f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIavofX.png" group-title="SERIES" pltv-subgroup="GREYS ANATOMY",1x4 
+https://www.seuanime.com/players/novo/?contentId=7c811a10081dc2e4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIavofX.png" group-title="SERIES" pltv-subgroup="GREYS ANATOMY",1x5 
+https://www.seuanime.com/players/novo/?contentId=ead9a65d61efa388
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIavofX.png" group-title="SERIES" pltv-subgroup="GREYS ANATOMY",1x6 
+https://www.seuanime.com/players/novo/?contentId=5312bd4f40b8cef1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIavofX.png" group-title="SERIES" pltv-subgroup="GREYS ANATOMY",1x7 
+https://www.seuanime.com/players/novo/?contentId=1b2397ea55246d3b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIavofX.png" group-title="SERIES" pltv-subgroup="GREYS ANATOMY",1x8 
+https://www.seuanime.com/players/novo/?contentId=7802d4a92f5cdea5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIavofX.png" group-title="SERIES" pltv-subgroup="GREYS ANATOMY",1x9 
+https://www.seuanime.com/players/novo/?contentId=9d90be0be74ab3b8
