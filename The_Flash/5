@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" ,[COLOR gold][B]FLASH[/B][/COLOR] [COLOR chocolate][B]05ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x1
+https://www.seuanime.com/players/novo/?contentId=2a7e30bb51f2799f
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x2
+https://www.seuanime.com/players/novo/?contentId=880dc843e056535b
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x3
+https://www.seuanime.com/players/novo/?contentId=593af82789c4beb1
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x4
+https://www.seuanime.com/players/novo/?contentId=82a031e0a8ae7113
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x5
+https://www.seuanime.com/players/novo/?contentId=75d316fbd6077bc5
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x6
+https://www.seuanime.com/players/novo/?contentId=8b6f74f3b6b48c5c
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x7
+https://www.seuanime.com/players/novo/?contentId=26aec7f2510f776f
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x8
+https://www.seuanime.com/players/novo/?contentId=0969c096e6386155
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x9 - Crossover 1
+https://www.seuanime.com/players/novo/?contentId=bd07d0314775e4b7
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x10
+https://www.seuanime.com/players/novo/?contentId=51e409cb6ef83db1
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x11
+https://www.seuanime.com/players/novo/?contentId=ec7d8f3047a2890a
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x12
+https://www.seuanime.com/players/novo/?contentId=efb6e1298edf58e4
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x13
+https://www.seuanime.com/players/novo/?contentId=3df1283826c601b9
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x14
+https://www.seuanime.com/players/novo/?contentId=13eb1b2c3449ae70
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x15
+https://www.seuanime.com/players/novo/?contentId=aa742084782b40d9
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vd0cknckt/Thumbnail_The_Flash.png" group-title="SERIES" pltv-subgroup="FLASH",5x16
+https://www.seuanime.com/players/novo/?contentId=03ec41502ac77efc
