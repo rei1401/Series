@@ -1,1 +1,20 @@
-
+<channels>
+</channels>
+<channel>
+<name>[B][COLOR white]1ª TEMPORADA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/tvfogo/Series/master/travelers/1</externallink>
+<thumbnail>https://i.imgur.com/sfC0CyC.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+<channel>
+<name>[B][COLOR white]2ª TEMPORADA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/tvfogo/Series/master/travelers/2</externallink>
+<thumbnail>https://i.imgur.com/0s21Jdt.jpg</thumbnail>
+<fanart></fanart>
+</channel>
+<channel>
+<name>[B][COLOR white]3ª TEMPORADA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/tvfogo/Series/master/travelers/3</externallink>
+<thumbnail>https://i.imgur.com/YOttvn8.jpg</thumbnail>
+<fanart></fanart>
+</channel>
