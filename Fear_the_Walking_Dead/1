@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w5kprm31p/Thumbnail_Fear_The_Walking_Dead.png" group-title="SERIES" ,[COLOR gold][B]FEAR THE WALKING DEAD[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w5kprm31p/Thumbnail_Fear_The_Walking_Dead.png" group-title="SERIES",1x1
+https://www.seuanime.com/players/novo/?contentId=376628569238435d
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w5kprm31p/Thumbnail_Fear_The_Walking_Dead.png" group-title="SERIES",1x2
+https://www.seuanime.com/players/novo/?contentId=3499ef2c661cedd2
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w5kprm31p/Thumbnail_Fear_The_Walking_Dead.png" group-title="SERIES",1x3
+https://www.seuanime.com/players/novo/?contentId=558013c6e3651d63
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w5kprm31p/Thumbnail_Fear_The_Walking_Dead.png" group-title="SERIES",1x4
+https://www.seuanime.com/players/novo/?contentId=60d62906296d6095
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w5kprm31p/Thumbnail_Fear_The_Walking_Dead.png" group-title="SERIES",1x5
+https://www.seuanime.com/players/novo/?contentId=39dd1edae44b5d57
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/w5kprm31p/Thumbnail_Fear_The_Walking_Dead.png" group-title="SERIES",1x6
+https://www.seuanime.com/players/novo/?contentId=467895a2ed8a1f28
