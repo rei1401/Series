@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" ,[COLOR gold][B]DEMOLIDOR[/B][/COLOR] [COLOR chocolate][B]03ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" pltv-subgroup="DEMOLIDOR",3x1
+https://www.seuanime.com/players/novo/?contentId=a1ef1fb2b790aae0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" pltv-subgroup="DEMOLIDOR",3x2
+https://www.seuanime.com/players/novo/?contentId=1ed55996f7028b21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" pltv-subgroup="DEMOLIDOR",3x3
+https://www.seuanime.com/players/novo/?contentId=79723b2c2640c958
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" pltv-subgroup="DEMOLIDOR",3x4
+https://www.seuanime.com/players/novo/?contentId=cd4d6221c57cb40c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" pltv-subgroup="DEMOLIDOR",3x5
+https://www.seuanime.com/players/novo/?contentId=ca9f1d7cc2dab408
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" pltv-subgroup="DEMOLIDOR",3x6
+https://www.seuanime.com/players/novo/?contentId=58c2b48bec20b2d9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" pltv-subgroup="DEMOLIDOR",3x7
+https://www.seuanime.com/players/novo/?contentId=6e5c9b5be952bfa0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" pltv-subgroup="DEMOLIDOR",3x8
+https://www.seuanime.com/players/novo/?contentId=2ba940b4fa37f804
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" pltv-subgroup="DEMOLIDOR",3x9
+https://www.seuanime.com/players/novo/?contentId=9c6776564129ea10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" pltv-subgroup="DEMOLIDOR",3x10
+https://www.seuanime.com/players/novo/?contentId=e8f34a3c3125e294
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" pltv-subgroup="DEMOLIDOR",3x11
+https://www.seuanime.com/players/novo/?contentId=5049f8057cffce64
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" pltv-subgroup="DEMOLIDOR",3x12
+https://www.seuanime.com/players/novo/?contentId=9bc46f0c94c4b58f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBHduni.png" group-title="SERIES" pltv-subgroup="DEMOLIDOR",3x13
+https://www.seuanime.com/players/novo/?contentId=8bcb1ca492200806
