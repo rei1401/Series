@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCwXKLQ.png" group-title="SERIES" ,[COLOR gold][B]VIKINGS[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCwXKLQ.png" group-title="SERIES" pltv-subgroup="VIKINGS",1x1
+https://www.seuanime.com/players/novo/?contentId=b2db5d25e72f2a10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCwXKLQ.png" group-title="SERIES" pltv-subgroup="VIKINGS",1x2
+https://www.seuanime.com/players/novo/?contentId=33bb4856b203eb80
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCwXKLQ.png" group-title="SERIES" pltv-subgroup="VIKINGS",1x3
+https://www.seuanime.com/players/novo/?contentId=252fd0b967572af2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCwXKLQ.png" group-title="SERIES" pltv-subgroup="VIKINGS",1x4
+https://www.seuanime.com/players/novo/?contentId=e2fd7f141f92afc9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCwXKLQ.png" group-title="SERIES" pltv-subgroup="VIKINGS",1x5
+https://www.seuanime.com/players/novo/?contentId=77c113076da6b5c3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCwXKLQ.png" group-title="SERIES" pltv-subgroup="VIKINGS",1x6
+https://www.seuanime.com/players/novo/?contentId=1a13bc1eaf8e61f5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCwXKLQ.png" group-title="SERIES" pltv-subgroup="VIKINGS",1x7
+https://www.seuanime.com/players/novo/?contentId=a48ce5c5723a08c1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCwXKLQ.png" group-title="SERIES" pltv-subgroup="VIKINGS",1x8
+https://www.seuanime.com/players/novo/?contentId=4098a94a1b58e937
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCwXKLQ.png" group-title="SERIES" pltv-subgroup="VIKINGS",1x9
+https://www.seuanime.com/players/novo/?contentId=2e74e3e6eea7a949
