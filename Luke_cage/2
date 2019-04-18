@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" ,[COLOR gold][B]LUKE CAGE[/B][/COLOR] [COLOR chocolate][B]02ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" pltv-subgroup="LUKE CAGE",2x1
+https://www.seuanime.com/players/novo/?contentId=14747063bc90af2e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" pltv-subgroup="LUKE CAGE",2x2
+https://www.seuanime.com/players/novo/?contentId=184eed051b7fea8c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" pltv-subgroup="LUKE CAGE",2x3
+https://www.seuanime.com/players/novo/?contentId=89dc7d8ed700003c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" pltv-subgroup="LUKE CAGE",2x4
+https://www.seuanime.com/players/novo/?contentId=c19511bc0d32a4f7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" pltv-subgroup="LUKE CAGE",2x5
+https://www.seuanime.com/players/novo/?contentId=5d1f379e7aa731bd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" pltv-subgroup="LUKE CAGE",2x6
+https://www.seuanime.com/players/novo/?contentId=64e073843b104d7d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" pltv-subgroup="LUKE CAGE",2x7
+https://www.seuanime.com/players/novo/?contentId=25ccb65b4238271b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" pltv-subgroup="LUKE CAGE",2x8
+https://www.seuanime.com/players/novo/?contentId=f418f2dcbc33caed
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" pltv-subgroup="LUKE CAGE",2x9
+https://www.seuanime.com/players/novo/?contentId=751ab293b812c1a5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" pltv-subgroup="LUKE CAGE",2x10
+https://www.seuanime.com/players/novo/?contentId=b930d780d1668a2a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" pltv-subgroup="LUKE CAGE",2x11
+https://www.seuanime.com/players/novo/?contentId=8364b48204b9a8a1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" pltv-subgroup="LUKE CAGE",2x12
+https://www.seuanime.com/players/novo/?contentId=f6fac1eb6961d91
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Me9mxLl.png" group-title="SERIES" pltv-subgroup="LUKE CAGE",2x13
+https://www.seuanime.com/players/novo/?contentId=454fe5e7a2fe18da
