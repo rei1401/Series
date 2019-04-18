@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" ,[COLOR gold][B]THE MENTALIST[/B][/COLOR] [COLOR chocolate][B]06ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x1
+https://www.seuanime.com/players/novo/?contentId=e75fae63673e64b7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x2
+https://www.seuanime.com/players/novo/?contentId=6ada1cb32c8f9a8c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x3
+https://www.seuanime.com/players/novo/?contentId=448c2785810daa81
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x4
+https://www.seuanime.com/players/novo/?contentId=4f562bd953abc1a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x5
+https://www.seuanime.com/players/novo/?contentId=849a86a72e37c80e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x6
+https://www.seuanime.com/players/novo/?contentId=186e2acf6046267
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x7
+https://www.seuanime.com/players/novo/?contentId=f282c7a5d8a3bfc7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x8
+https://www.seuanime.com/players/novo/?contentId=7ccc246a50beb39a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x9
+https://www.seuanime.com/players/novo/?contentId=155a1c5d94d70274
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x10
+https://www.seuanime.com/players/novo/?contentId=6662a3f45c76ee6c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x11
+https://www.seuanime.com/players/novo/?contentId=3c07b2cce5c1ce6f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x12
+https://www.seuanime.com/players/novo/?contentId=8af9183c6b552ee9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x13
+https://www.seuanime.com/players/novo/?contentId=6f19912e530ea873
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x14
+https://www.seuanime.com/players/novo/?contentId=3740a7e0a7ecd679
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x15
+https://www.seuanime.com/players/novo/?contentId=a5ab1469a94da949
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x16
+https://www.seuanime.com/players/novo/?contentId=fccfe9ab4857ca6f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x17
+https://www.seuanime.com/players/novo/?contentId=84f9b8d09fc9472a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x18
+https://www.seuanime.com/players/novo/?contentId=95ec81443c53cff3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x19
+https://www.seuanime.com/players/novo/?contentId=c7e7eb1ff6147647
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x20
+https://www.seuanime.com/players/novo/?contentId=d6eac525f4179fb0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x21
+https://www.seuanime.com/players/novo/?contentId=81b502bc3e688d66
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsOLP7d.png" group-title="SERIES" pltv-subgroup="THE MENTALIST",6x22
+https://www.seuanime.com/players/novo/?contentId=72e0b260d72949c4
