@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" ,[COLOR gold][B]THE BIG BANG THEORY[/B][/COLOR] [COLOR chocolate][B]12ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x1
+https://www.seuanime.com/players/novo/?contentId=764896d2b3076788
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x2
+https://www.seuanime.com/players/novo/?contentId=872990ac34d52c8f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x3
+https://www.seuanime.com/players/novo/?contentId=3e43eaeb3ab9ebd4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x4
+https://www.seuanime.com/players/novo/?contentId=ecd964838508d21b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x5
+https://www.seuanime.com/players/novo/?contentId=108afc717ad766c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x6
+https://www.seuanime.com/players/novo/?contentId=ab930a08985b6cda
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x7
+https://www.seuanime.com/players/novo/?contentId=fce9f819c584b343
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x8
+https://www.seuanime.com/players/novo/?contentId=feb196d9e0672e6c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x9
+https://www.seuanime.com/players/novo/?contentId=0dfd69a265dee4c1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x10
+https://www.seuanime.com/players/novo/?contentId=803fa97bbc726cc3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x11
+https://www.seuanime.com/players/novo/?contentId=0dfd69a265dee4c1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x12
+https://www.seuanime.com/players/novo/?contentId=e73e64116e82d5b1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x13
+https://www.seuanime.com/players/novo/?contentId=b81445dd74bb9e55
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x14 
+https://www.seuanime.com/players/novo/?contentId=16fb4d10d00b1ea3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x15
+https://www.seuanime.com/players/novo/?contentId=603c9a053a86916a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x16
+https://www.seuanime.com/players/novo/?contentId=a01d03cc0e1d99f7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QdmbCoY.png" group-title="SERIES" pltv-subgroup="THE BIG BANG THEORY",12x17
+https://www.seuanime.com/players/novo/?contentId=9d5de12bf6f796ec
+
