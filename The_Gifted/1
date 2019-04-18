@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" ,[COLOR gold][B]THE GIFTED[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",1x1
+https://www.seuanime.com/players/novo/?contentId=f30517cdbda6a5d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",1x2
+https://www.seuanime.com/players/novo/?contentId=19fe0564b2d08f47
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",1x3
+https://www.seuanime.com/players/novo/?contentId=68323287d7ed243b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",1x4
+https://www.seuanime.com/players/novo/?contentId=a6e0adaa4a4493d3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",1x5
+https://www.seuanime.com/players/novo/?contentId=5fc9197ee635abd3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",1x6
+https://www.seuanime.com/players/novo/?contentId=291647b03d709dcb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",1x7
+https://www.seuanime.com/players/novo/?contentId=3edb2e319403a345
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",1x8
+https://www.seuanime.com/players/novo/?contentId=78aff1ece63a8ef7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",1x9
+https://www.seuanime.com/players/novo/?contentId=5f52a3def4e95b62
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",1x10
+https://www.seuanime.com/players/novo/?contentId=de9dd0d67c9a98e3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",1x11
+https://www.seuanime.com/players/novo/?contentId=ab9e95189ce1203d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",1x12 & 13
+https://www.seuanime.com/players/novo/?contentId=4bddcad189240a49

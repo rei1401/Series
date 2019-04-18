@@ -1,0 +1,39 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" ,[COLOR gold][B]THE GIFTED[/B][/COLOR] [COLOR chocolate][B]02ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x1(LEG)
+https://www.seuanime.com/players/novo/?contentId=bffa767d8d524f33
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x2(LEG)
+https://www.seuanime.com/players/novo/?contentId=d231284eda67cb1b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x3(LEG)
+https://www.seuanime.com/players/novo/?contentId=1b09f83ec37c661e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x4(LEG)
+https://www.seuanime.com/players/novo/?contentId=aa854e4c239cdcaf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x5(LEG)
+https://www.seuanime.com/players/novo/?contentId=16ef17e27f7d2adf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x6(LEG)
+https://www.seuanime.com/players/novo/?contentId=1e4aef4338503d01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x7(LEG)
+https://www.seuanime.com/players/novo/?contentId=d522f89873347ccd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x8(LEG)
+https://www.seuanime.com/players/novo/?contentId=1f65cae89c5617c3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x9(LEG)
+https://www.seuanime.com/players/novo/?contentId=24b9f04c187e004d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x10(LEG)
+https://www.seuanime.com/players/novo/?contentId=b966246710c6c9b2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x11(LEG)
+https://www.seuanime.com/players/novo/?contentId=4c9f26938ec22028
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x12(LEG)
+https://www.seuanime.com/players/novo/?contentId=6510d896ebaa0db5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x13(LEG)
+https://www.seuanime.com/players/novo/?contentId=4f569f63fdbff545
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x14(LEG)
+https://www.seuanime.com/players/novo/?contentId=8537d396df1a9ab6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x15(LEG)
+https://www.seuanime.com/players/novo/?contentId=8d410680bf46763d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6AEtlZF.png" group-title="SERIES" pltv-subgroup="THE GIFTED",2x16(LEG)
+https://www.seuanime.com/players/novo/?contentId=c21e7ed72c54612f
+
+
