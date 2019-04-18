@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnULx3U.png" group-title="SERIES" ,[COLOR gold][B]SENSE8[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnULx3U.png" group-title="SERIES" pltv-subgroup="SENSE8",1x1
+https://www.seuanime.com/players/novo/?contentId=c857a5a935a8f80d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnULx3U.png" group-title="SERIES" pltv-subgroup="SENSE8",1x2
+https://www.seuanime.com/players/novo/?contentId=535d9bad57e6c539
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnULx3U.png" group-title="SERIES" pltv-subgroup="SENSE8",1x3
+https://www.seuanime.com/players/novo/?contentId=60662d1988a7ba66
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnULx3U.png" group-title="SERIES" pltv-subgroup="SENSE8",1x4
+https://www.seuanime.com/players/novo/?contentId=cfea83ab8a1cb057
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnULx3U.png" group-title="SERIES" pltv-subgroup="SENSE8",1x5
+https://www.seuanime.com/players/novo/?contentId=db423db1097c2bc4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnULx3U.png" group-title="SERIES" pltv-subgroup="SENSE8",1x6
+https://www.seuanime.com/players/novo/?contentId=a6246f8af0599548
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnULx3U.png" group-title="SERIES" pltv-subgroup="SENSE8",1x7
+https://www.seuanime.com/players/novo/?contentId=a85e70ff4ccf39f6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnULx3U.png" group-title="SERIES" pltv-subgroup="SENSE8",1x8
+https://www.seuanime.com/players/novo/?contentId=66ae82e18c982e76
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnULx3U.png" group-title="SERIES" pltv-subgroup="SENSE8",1x9
+https://www.seuanime.com/players/novo/?contentId=5d82ec1b78f7b890
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnULx3U.png" group-title="SERIES" pltv-subgroup="SENSE8",1x10
+https://www.seuanime.com/players/novo/?contentId=8d2a60eb8f2c230c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnULx3U.png" group-title="SERIES" pltv-subgroup="SENSE8",1x11
+https://www.seuanime.com/players/novo/?contentId=2e16870d1afd4469
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CnULx3U.png" group-title="SERIES" pltv-subgroup="SENSE8",1x12
+https://www.seuanime.com/players/novo/?contentId=12a619266f3e3389
