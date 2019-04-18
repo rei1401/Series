@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who" ,[COLOR gold][B]Doctor Who[/B][/COLOR] [COLOR chocolate][B]05ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who DUB",5x1-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=e55c80de279d64ef
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who DUB",5x2-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=1bee7fbb1d72f9f3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who DUB",5x3-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=84109e3083a8950
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who DUB",5x4-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=32964df6e286dae
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who DUB",5x5-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=f1dbfea262459322
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who DUB",5x6-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=cf67f6e2601b16a5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who DUB",5x7-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=bbb919857e285692
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who DUB",5x8-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=2c1f74c1bab1e88e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who DUB",5x9-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=d3ac377408db5a4b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who DUB",5x10-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=32f7ba713e8fb0f3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who DUB",5x11-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=79449dc6a7cc700b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who DUB",5x12-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=4b529c1768f3a2ef
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cjj7jX.jpg" group-title="Doctor Who DUB",5x13-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=d95411e9f3ae281f

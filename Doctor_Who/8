@@ -1,0 +1,27 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ax442dC.jpg" group-title="Doctor Who" ,[COLOR gold][B]Doctor Who[/B][/COLOR] [COLOR chocolate][B]08ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ax442dC.jpg" group-title="Doctor Who DUB",8x0-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=84632e18b80aa537
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ax442dC.jpg" group-title="Doctor Who DUB",8x1-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=b6aec0815d8b3c27
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ax442dC.jpg" group-title="Doctor Who DUB",8x2-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=49117bdbf14bffe9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ax442dC.jpg" group-title="Doctor Who DUB",8x3-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=ce66bbac475c6351
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ax442dC.jpg" group-title="Doctor Who DUB",8x4-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=3834b602373ba2f4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ax442dC.jpg" group-title="Doctor Who DUB",8x5-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=bcce85dc7948a43b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ax442dC.jpg" group-title="Doctor Who DUB",8x6-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=a5cecc780073bb63
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ax442dC.jpg" group-title="Doctor Who DUB",8x7-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=30fd19b626ee379a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ax442dC.jpg" group-title="Doctor Who DUB",8x8-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=2f4e84d2550c9128
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ax442dC.jpg" group-title="Doctor Who DUB",8x9-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=1fd59f251301099a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ax442dC.jpg" group-title="Doctor Who DUB",8x10-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=712902ffa0e47be2

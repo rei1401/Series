@@ -1,0 +1,27 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VjUnFy.jpg" group-title="Doctor Who" ,[COLOR gold][B]Doctor Who[/B][/COLOR] [COLOR chocolate][B]11ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VjUnFy.jpg" group-title="Doctor Who DUB",11x1-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=1a6e7f835d9a0807
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VjUnFy.jpg" group-title="Doctor Who DUB",11x2-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=cdb7c66354ef80c6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VjUnFy.jpg" group-title="Doctor Who DUB",11x3-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=d26c549fdf369771
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VjUnFy.jpg" group-title="Doctor Who DUB",11x4-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=c1269307f9956cf9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VjUnFy.jpg" group-title="Doctor Who DUB",11x5-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=aac80099bfbfcaa1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VjUnFy.jpg" group-title="Doctor Who DUB",11x6-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=9a379972e78923c6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VjUnFy.jpg" group-title="Doctor Who DUB",11x7-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=a97707f9358f6282
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VjUnFy.jpg" group-title="Doctor Who DUB",11x8-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=0413241ded60164d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VjUnFy.jpg" group-title="Doctor Who DUB",11x9-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=dad693a69fb81fc4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VjUnFy.jpg" group-title="Doctor Who DUB",11x10-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=0a84fb449f796cd1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VjUnFy.jpg" group-title="Doctor Who DUB",11x11-DUB Doctor Who
+https://www.seuanime.com/players/novo/?contentId=56d09cbae6ee6bfa
