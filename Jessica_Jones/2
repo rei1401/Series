@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" ,[COLOR gold][B]JESSICA JONES[/B][/COLOR] [COLOR chocolate][B]02ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" pltv-subgroup="JESSICA JONES",2x1
+https://www.seuanime.com/players/novo/?contentId=f50c9a7a27c3a252
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" pltv-subgroup="JESSICA JONES",2x2
+https://www.seuanime.com/players/novo/?contentId=d85c9b95e8714532
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" pltv-subgroup="JESSICA JONES",2x3
+https://www.seuanime.com/players/novo/?contentId=6d4bfdbf40b09b99
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" pltv-subgroup="JESSICA JONES",2x4
+https://www.seuanime.com/players/novo/?contentId=76a8a83b932f5242
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" pltv-subgroup="JESSICA JONES",2x5
+https://www.seuanime.com/players/novo/?contentId=50bfaeeb30472fc4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" pltv-subgroup="JESSICA JONES",2x6
+https://www.seuanime.com/players/novo/?contentId=8a5d962fa65f2e75
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" pltv-subgroup="JESSICA JONES",2x7
+https://www.seuanime.com/players/novo/?contentId=f76e321b589e800
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" pltv-subgroup="JESSICA JONES",2x8
+https://www.seuanime.com/players/novo/?contentId=e2fee166b90b292
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" pltv-subgroup="JESSICA JONES",2x9
+https://www.seuanime.com/players/novo/?contentId=59c9d1a7cea72ef3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" pltv-subgroup="JESSICA JONES",2x10
+https://www.seuanime.com/players/novo/?contentId=2413f967018d7b48
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" pltv-subgroup="JESSICA JONES",2x11
+https://www.seuanime.com/players/novo/?contentId=675b227a5f790540
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" pltv-subgroup="JESSICA JONES",2x12
+https://www.seuanime.com/players/novo/?contentId=b2da7a3b9f47650
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGpFrhY.png" group-title="SERIES" pltv-subgroup="JESSICA JONES",2x13
+https://www.seuanime.com/players/novo/?contentId=c497dd2044e3ef97
