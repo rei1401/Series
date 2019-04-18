@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFFLLdu.png" group-title="SERIES" ,[COLOR gold][B]WESTWORLD[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFFLLdu.png" group-title="SERIES" pltv-subgroup="WESTWORLD",1x1
+https://www.seuanime.com/players/novo/?contentId=3415aff8028df5d3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFFLLdu.png" group-title="SERIES" pltv-subgroup="WESTWORLD",1x2
+https://www.seuanime.com/players/novo/?contentId=7e45bc15b7e1fbef
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFFLLdu.png" group-title="SERIES" pltv-subgroup="WESTWORLD",1x3
+https://www.seuanime.com/players/novo/?contentId=d522c3b6ceb01927
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFFLLdu.png" group-title="SERIES" pltv-subgroup="WESTWORLD",1x4
+https://www.seuanime.com/players/novo/?contentId=5ca659afe0d8726a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFFLLdu.png" group-title="SERIES" pltv-subgroup="WESTWORLD",1x5
+https://www.seuanime.com/players/novo/?contentId=56c340a7421d4316
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFFLLdu.png" group-title="SERIES" pltv-subgroup="WESTWORLD",1x6
+https://www.seuanime.com/players/novo/?contentId=cbf487a93d4aa272
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFFLLdu.png" group-title="SERIES" pltv-subgroup="WESTWORLD",1x7
+https://www.seuanime.com/players/novo/?contentId=4e9f64f90ac355b0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFFLLdu.png" group-title="SERIES" pltv-subgroup="WESTWORLD",1x8
+https://www.seuanime.com/players/novo/?contentId=473a66e23f9b1911
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFFLLdu.png" group-title="SERIES" pltv-subgroup="WESTWORLD",1x9
+https://www.seuanime.com/players/novo/?contentId=7956542f9b53b42a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pFFLLdu.png" group-title="SERIES" pltv-subgroup="WESTWORLD",1x10
+https://www.seuanime.com/players/novo/?contentId=8c44881847c38436
