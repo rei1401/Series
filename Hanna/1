@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dYKodu.jpg" group-title="Hanna",[COLOR gold][B]Hanna[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dYKodu.jpg" group-title="Hanna DUB",1x1-DUB Hanna
+https://www.seuanime.com/players/novo/?contentId=808bc0f769788214
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dYKodu.jpg" group-title="Hanna DUB",1x2-DUB Hanna
+https://www.seuanime.com/players/novo/?contentId=53753cd21fc94c26
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dYKodu.jpg" group-title="Hanna DUB",1x3-DUB Hanna
+https://www.seuanime.com/players/novo/?contentId=9d8648869319bfa9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dYKodu.jpg" group-title="Hanna DUB",1x4-DUB Hanna
+https://www.seuanime.com/players/novo/?contentId=82928de318eb3bde
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dYKodu.jpg" group-title="Hanna DUB",1x5-DUB Hanna
+https://www.seuanime.com/players/novo/?contentId=49fadb0ca3ee5afe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dYKodu.jpg" group-title="Hanna DUB",1x6-DUB Hanna
+https://www.seuanime.com/players/novo/?contentId=9c67ef9f8c486d5a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dYKodu.jpg" group-title="Hanna DUB",1x7-DUB Hanna
+https://www.seuanime.com/players/novo/?contentId=0415d4718026801c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dYKodu.jpg" group-title="Hanna DUB",1x8-DUB Hanna
+https://www.seuanime.com/players/novo/?contentId=16f042fce6bd9b68
