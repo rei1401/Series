@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" ,[COLOR gold][B]PUNHO DE FERRO[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",1x1
+https://www.seuanime.com/players/novo/?contentId=f443f7265718ec86
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",1x2
+https://www.seuanime.com/players/novo/?contentId=31ba0e7cc30c7597
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",1x3
+https://www.seuanime.com/players/novo/?contentId=3afa826c487b6e6f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",1x4
+https://www.seuanime.com/players/novo/?contentId=cae069a9ecd97564
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",1x5
+https://www.seuanime.com/players/novo/?contentId=2e36765522456633
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",1x6
+https://www.seuanime.com/players/novo/?contentId=67d35c29249b84c6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",1x7
+https://www.seuanime.com/players/novo/?contentId=4fc2a9a16759d80a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",1x8
+https://www.seuanime.com/players/novo/?contentId=41a9518b8723557c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",1x9
+https://www.seuanime.com/players/novo/?contentId=785eb775ed9499cc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",1x10
+https://www.seuanime.com/players/novo/?contentId=cbeef5f69d56bab2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",1x11
+https://www.seuanime.com/players/novo/?contentId=99478d28d2be3236
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",1x12
+https://www.seuanime.com/players/novo/?contentId=c6d6261d00834c65
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",1x13
+https://www.seuanime.com/players/novo/?contentId=18b2bb3c92ebfe23

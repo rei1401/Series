@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" ,[COLOR gold][B]PUNHO DE FERRO[/B][/COLOR] [COLOR chocolate][B]02ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",2x1
+https://www.seuanime.com/players/novo/?contentId=e4626ac569154a99
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",2x2
+https://www.seuanime.com/players/novo/?contentId=b54cc776780fa43c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",2x3
+https://www.seuanime.com/players/novo/?contentId=6f9533db07e1d6c8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",2x4
+https://www.seuanime.com/players/novo/?contentId=6f1813eab3f489d4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",2x5
+https://www.seuanime.com/players/novo/?contentId=f3848e7255088976
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",2x6
+https://www.seuanime.com/players/novo/?contentId=ceaad956f5a01176
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",2x7
+https://www.seuanime.com/players/novo/?contentId=f10403008f9640a5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",2x8
+https://www.seuanime.com/players/novo/?contentId=a78e86980b68756c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",2x9
+https://www.seuanime.com/players/novo/?contentId=5bf5d615bac04f01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psFLR7r.jpg" group-title="SERIES" pltv-subgroup="PUNHO DE FERRO",2x10
+https://www.seuanime.com/players/novo/?contentId=cb9585f14d2a4d7a
