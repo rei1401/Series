@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i01xL0M.jpg" group-title="SERIES" ,[COLOR gold][B]PERDIDOS NO ESPACO[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i01xL0M.jpg" group-title="SERIES" pltv-subgroup="PERDIDOS NO ESPACO",1x1
+https://www.seuanime.com/players/novo/?contentId=e7fcf878f755e611
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i01xL0M.jpg" group-title="SERIES" pltv-subgroup="PERDIDOS NO ESPACO",1x2
+https://www.seuanime.com/players/novo/?contentId=a9ba0f0202b5030f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i01xL0M.jpg" group-title="SERIES" pltv-subgroup="PERDIDOS NO ESPACO",1x3
+https://www.seuanime.com/players/novo/?contentId=b2330d64cb0e98a0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i01xL0M.jpg" group-title="SERIES" pltv-subgroup="PERDIDOS NO ESPACO",1x4
+https://www.seuanime.com/players/novo/?contentId=a7d2d54f4121757
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i01xL0M.jpg" group-title="SERIES" pltv-subgroup="PERDIDOS NO ESPACO",1x5
+https://www.seuanime.com/players/novo/?contentId=1952531abc037052
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i01xL0M.jpg" group-title="SERIES" pltv-subgroup="PERDIDOS NO ESPACO",1x6
+https://www.seuanime.com/players/novo/?contentId=189baa84ef9024da
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i01xL0M.jpg" group-title="SERIES" pltv-subgroup="PERDIDOS NO ESPACO",1x7
+https://www.seuanime.com/players/novo/?contentId=ef7aa3bb44d4848d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i01xL0M.jpg" group-title="SERIES" pltv-subgroup="PERDIDOS NO ESPACO",1x8
+https://www.seuanime.com/players/novo/?contentId=9b07f6893c2030f4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i01xL0M.jpg" group-title="SERIES" pltv-subgroup="PERDIDOS NO ESPACO",1x9
+https://www.seuanime.com/players/novo/?contentId=8f330ca04faaf1ee
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i01xL0M.jpg" group-title="SERIES" pltv-subgroup="PERDIDOS NO ESPACO",1x10
+https://www.seuanime.com/players/novo/?contentId=36fa33d9a4f6bed4
