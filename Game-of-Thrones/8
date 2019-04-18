@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://tinyurl.com/y2lb743y" group-title="SERIES" ,[COLOR gold][B]GAME OF THRONES[/B][/COLOR] [COLOR chocolate][B]08ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://tinyurl.com/y2lb743y" group-title="SERIES" pltv-subgroup="GAME OF THRONES",Winterfell 8x1 
+https://www.seuanime.com/players/novo/?contentId=0cd7422b7efd44eb
+
+#EXTINF:-1 tvg-logo="http://tinyurl.com/y2lb743y" group-title="SERIES" pltv-subgroup="GAME OF THRONES",8x2
+
+#EXTINF:-1 tvg-logo="http://tinyurl.com/y2lb743y" group-title="SERIES" pltv-subgroup="GAME OF THRONES",8x3
+
+#EXTINF:-1 tvg-logo="http://tinyurl.com/y2lb743y" group-title="SERIES" pltv-subgroup="GAME OF THRONES",8x4
+
+#EXTINF:-1 tvg-logo="http://tinyurl.com/y2lb743y" group-title="SERIES" pltv-subgroup="GAME OF THRONES",8x5
+
+#EXTINF:-1 tvg-logo="http://tinyurl.com/y2lb743y" group-title="SERIES" pltv-subgroup="GAME OF THRONES",8x6
+
+

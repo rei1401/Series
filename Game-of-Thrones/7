@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" ,[COLOR gold][B]GAME OF THRONES[/B][/COLOR] [COLOR chocolate][B]07ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",7x1 
+https://www.seuanime.com/players/novo/?contentId=d6b01c56a9ec96a0
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",7x2 
+https://www.seuanime.com/players/novo/?contentId=d6b01c56a9ec96a0
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",7x3 
+https://www.seuanime.com/players/novo/?contentId=274eed18fe0a5cea
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",7x4 
+https://www.seuanime.com/players/novo/?contentId=63897a68530a6734
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",7x5 
+https://www.seuanime.com/players/novo/?contentId=3b3a2cfd828413de
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",7x6.1 
+https://www.seuanime.com/players/novo/?contentId=3d65de5a5fc52c03
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",7x6.2 
+https://www.seuanime.com/players/novo/?contentId=31823be63df3882b
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",7x7.1 
+https://www.seuanime.com/players/novo/?contentId=4ad46c1b32f3e14
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",7x7.2 
+https://www.seuanime.com/players/novo/?contentId=16936793c5d2dc6c
