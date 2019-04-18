@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYbTjtj.png" group-title="SERIES" ,[COLOR gold][B]NARCOS[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYbTjtj.png" group-title="SERIES" pltv-subgroup="NARCOS",1x1
+https://www.seuanime.com/players/novo/?contentId=64e148d30806726d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYbTjtj.png" group-title="SERIES" pltv-subgroup="NARCOS",1x2
+https://www.seuanime.com/players/novo/?contentId=ffdd5d0ff0123bce
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYbTjtj.png" group-title="SERIES" pltv-subgroup="NARCOS",1x3
+https://www.seuanime.com/players/novo/?contentId=a742b8d2c98139eb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYbTjtj.png" group-title="SERIES" pltv-subgroup="NARCOS",1x4
+https://www.seuanime.com/players/novo/?contentId=24a91e250af259a1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYbTjtj.png" group-title="SERIES" pltv-subgroup="NARCOS",1x5
+https://www.seuanime.com/players/novo/?contentId=cd241548d11d8e14
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYbTjtj.png" group-title="SERIES" pltv-subgroup="NARCOS",1x6
+https://www.seuanime.com/players/novo/?contentId=a9cc6ee2fdbb71de
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYbTjtj.png" group-title="SERIES" pltv-subgroup="NARCOS",1x7
+https://www.seuanime.com/players/novo/?contentId=16dfc31f9f1c147b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYbTjtj.png" group-title="SERIES" pltv-subgroup="NARCOS",1x8
+https://www.seuanime.com/players/novo/?contentId=145172c3c857abc3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYbTjtj.png" group-title="SERIES" pltv-subgroup="NARCOS",1x9
+https://www.seuanime.com/players/novo/?contentId=33f9719a0b26367d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYbTjtj.png" group-title="SERIES" pltv-subgroup="NARCOS",1x10
+https://www.seuanime.com/players/novo/?contentId=b2aef0e09516aa22
