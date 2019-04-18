@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" ,[COLOR gold][B]MAQUINA MORTIFERA[/B][/COLOR] [COLOR chocolate][B]03ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x1
+https://www.seuanime.com/players/novo/?contentId=8c4fb0c4d6d6a531
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x2
+https://www.seuanime.com/players/novo/?contentId=22f8ee25169e44eb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x3
+https://www.seuanime.com/players/novo/?contentId=674a6fe481099f46
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x4
+https://www.seuanime.com/players/novo/?contentId=7304bc31200d78e6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x5
+https://www.seuanime.com/players/novo/?contentId=8b9faaafd619cc8a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x6
+https://www.seuanime.com/players/novo/?contentId=65a8f7b1c2b4fce8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x7
+https://www.seuanime.com/players/novo/?contentId=67acbe03f8054234
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x8
+https://www.seuanime.com/players/novo/?contentId=22e0dd2f59db2733
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x9
+https://www.seuanime.com/players/novo/?contentId=2dc2e01f01597c8c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x10
+https://www.seuanime.com/players/novo/?contentId=1d95ef56901d0616
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x11
+https://www.seuanime.com/players/novo/?contentId=49376b16b51a58c8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x12
+https://www.seuanime.com/players/novo/?contentId=6ea46b4b580227bd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x13
+https://www.seuanime.com/players/novo/?contentId=9a9364f999b1aefc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x14
+https://www.seuanime.com/players/novo/?contentId=7d8113a149949d97
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10Rrzxw.png" group-title="SERIES" pltv-subgroup="LETHAL WEAPON",3x15 (SEASON FINALE)
+https://www.seuanime.com/players/novo/?contentId=0b57955e194670b5
