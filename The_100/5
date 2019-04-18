@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" ,[COLOR gold][B]THE 100[/B][/COLOR] [COLOR chocolate][B]05ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" pltv-subgroup="THE 100",5x1
+https://www.seuanime.com/players/novo/?contentId=891b4efd5e9613cf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" pltv-subgroup="THE 100",5x2
+https://www.seuanime.com/players/novo/?contentId=d14d787d512e478d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" pltv-subgroup="THE 100",5x3
+https://www.seuanime.com/players/novo/?contentId=f2e1e5c7619a54d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" pltv-subgroup="THE 100",5x4
+https://www.seuanime.com/players/novo/?contentId=5b9a13b7cfaa95a8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" pltv-subgroup="THE 100",5x5
+https://www.seuanime.com/players/novo/?contentId=907dad734420a06d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" pltv-subgroup="THE 100",5x6
+https://www.seuanime.com/players/novo/?contentId=e967d7bd491c4d5c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" pltv-subgroup="THE 100",5x7
+https://www.seuanime.com/players/novo/?contentId=c8dda9a1026ce630
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" pltv-subgroup="THE 100",5x8
+https://www.seuanime.com/players/novo/?contentId=663d78069b551827
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" pltv-subgroup="THE 100",5x9
+https://www.seuanime.com/players/novo/?contentId=53b02ced05d74b04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" pltv-subgroup="THE 100",5x10
+https://www.seuanime.com/players/novo/?contentId=45c5962666aa5810
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" pltv-subgroup="THE 100",5x11
+https://www.seuanime.com/players/novo/?contentId=8eebcf5dc2e21b7d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" pltv-subgroup="THE 100",5x12
+https://www.seuanime.com/players/novo/?contentId=6159687f8195eb3b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hDmXTkj.png" group-title="SERIES" pltv-subgroup="THE 100",5x13
+https://www.seuanime.com/players/novo/?contentId=aa5682fd618a9a29
