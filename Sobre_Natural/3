@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" ,[COLOR gold][B]SOBRENATURAL[/B][/COLOR] [COLOR chocolate][B]03ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x1
+https://www.seuanime.com/players/novo/?contentId=46537a719d442e7e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x2
+https://www.seuanime.com/players/novo/?contentId=c53ad868bc0ca8e6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x3
+https://www.seuanime.com/players/novo/?contentId=b8d41792b2d3d993
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x4
+https://www.seuanime.com/players/novo/?contentId=c2fbe0c266e8be87
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x5
+https://www.seuanime.com/players/novo/?contentId=3c4c28e987048511
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x6
+https://www.seuanime.com/players/novo/?contentId=b345226d2803d4ab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x7
+https://www.seuanime.com/players/novo/?contentId=fccb5d29d869afb5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x8
+https://www.seuanime.com/players/novo/?contentId=ae2e42d5575e6d1a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x9
+https://www.seuanime.com/players/novo/?contentId=79ba9c4dc2561db2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x10
+https://www.seuanime.com/players/novo/?contentId=b29bba9bfc3ffb62
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x11
+https://www.seuanime.com/players/novo/?contentId=eadfa1c9290820d5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x12
+https://www.seuanime.com/players/novo/?contentId=e297fbcd2d0d9c1e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x13
+https://www.seuanime.com/players/novo/?contentId=ffb6d3e4920166fe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x14
+https://www.seuanime.com/players/novo/?contentId=c087efee9ab797bb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x15
+https://www.seuanime.com/players/novo/?contentId=ede21685f21e5865
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",3x16
+https://www.seuanime.com/players/novo/?contentId=b9371aaa82c89169

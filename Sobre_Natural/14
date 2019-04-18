@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" ,[COLOR gold][B]SOBRENATURAL[/B][/COLOR] [COLOR chocolate][B]14ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",14x1
+https://www.seuanime.com/players/novo/?contentId=333ebedad9abae56
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",14x2
+https://www.seuanime.com/players/novo/?contentId=2770f0319c862cf3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",14x3
+https://www.seuanime.com/players/novo/?contentId=23b33dff8fe48a9b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",14x4
+https://www.seuanime.com/players/novo/?contentId=7d1985e649652f0c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",14x5
+https://www.seuanime.com/players/novo/?contentId=1f072987ba1aad7d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",14x6
+https://www.seuanime.com/players/novo/?contentId=1030d6fdd2c03eb4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",14x7
+https://www.seuanime.com/players/novo/?contentId=9678dd1c8bf09513
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",14x8
+https://www.seuanime.com/players/novo/?contentId=330ac7f548f993f8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",14x9
+https://www.seuanime.com/players/novo/?contentId=f6b5bf9c0cc0e077
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",14x10
+https://www.seuanime.com/players/novo/?contentId=19ea942a104cfcc2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",14x11
+https://www.seuanime.com/players/novo/?contentId=f7f13be076ffbc71
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",14x12
+https://www.seuanime.com/players/novo/?contentId=f59e571bc839d984
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1zpP8Y.png" group-title="SERIES" pltv-subgroup="SOBRENATURAL",14x13
+https://www.seuanime.com/players/novo/?contentId=c498b29f17473d33
