@@ -1,0 +1,21 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" ,[COLOR gold][B]LEGION[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",1x1
+https://www.seuanime.com/players/novo/?contentId=679791d2327a13ec
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",1x2
+https://www.seuanime.com/players/novo/?contentId=964d4ed5a6e93bc7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",1x3
+https://www.seuanime.com/players/novo/?contentId=469b747cc7fcbb35
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",1x4
+https://www.seuanime.com/players/novo/?contentId=f2c501da3bdce16f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",1x5
+https://www.seuanime.com/players/novo/?contentId=46f02d72abd47b4a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",1x6
+https://www.seuanime.com/players/novo/?contentId=757ffb7847207f70
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",1x7
+https://www.seuanime.com/players/novo/?contentId=9736acf7f3193938
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",1x8
+https://www.seuanime.com/players/novo/?contentId=4daa99890f23f5e1

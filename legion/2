@@ -1,0 +1,27 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" ,[COLOR gold][B]LEGION[/B][/COLOR] [COLOR chocolate][B]02ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",2x1
+https://www.seuanime.com/players/novo/?contentId=04d27b68e47e0704
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",2x2
+https://www.seuanime.com/players/novo/?contentId=c05fcdf0c37b330b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",2x3
+https://www.seuanime.com/players/novo/?contentId=75881224a7022678
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",2x4
+https://www.seuanime.com/players/novo/?contentId=6072b5f54c3a1771
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",2x5
+https://www.seuanime.com/players/novo/?contentId=f8600e6075b4eea4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",2x6
+https://www.seuanime.com/players/novo/?contentId=21da1d5311ae3292
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",2x7
+https://www.seuanime.com/players/novo/?contentId=717d61b448c45e58
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",2x8
+https://www.seuanime.com/players/novo/?contentId=aab8fc08842251c3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",2x9
+https://www.seuanime.com/players/novo/?contentId=a30b975c681703bb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",2x10
+https://www.seuanime.com/players/novo/?contentId=47f132278f6f0617
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N6vFPEb.png" group-title="SERIES" pltv-subgroup="LEGION",2x11 (SEASON FINALE)
+https://www.seuanime.com/players/novo/?contentId=641f26f0fa98650a
