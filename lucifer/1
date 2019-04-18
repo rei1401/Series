@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" ,[COLOR gold][B]LUCIFER[/B][/COLOR] [COLOR chocolate][B]01ª Temporada [/B][/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" pltv-subgroup="LUCIFER",1x1
+https://www.seuanime.com/players/novo/?contentId=1edd0b394aa4469a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" pltv-subgroup="LUCIFER",1x2
+https://www.seuanime.com/players/novo/?contentId=afd1ecef3c6afd26
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" pltv-subgroup="LUCIFER",1x3
+https://www.seuanime.com/players/novo/?contentId=64d40de92a79ee3e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" pltv-subgroup="LUCIFER",1x4
+https://www.seuanime.com/players/novo/?contentId=55c238678e2a5b71
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" pltv-subgroup="LUCIFER",1x5
+https://www.seuanime.com/players/novo/?contentId=7932ed2d0a1e5839
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" pltv-subgroup="LUCIFER",1x6
+https://www.seuanime.com/players/novo/?contentId=b33a5165d06dc67d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" pltv-subgroup="LUCIFER",1x7
+https://www.seuanime.com/players/novo/?contentId=8cc4ae26455232a3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" pltv-subgroup="LUCIFER",1x8
+https://www.seuanime.com/players/novo/?contentId=ba639b01ff0f2420
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" pltv-subgroup="LUCIFER",1x9
+https://www.seuanime.com/players/novo/?contentId=83d9a2e619e1379f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" pltv-subgroup="LUCIFER",1x10
+https://www.seuanime.com/players/novo/?contentId=9a48a6f00379dc1f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" pltv-subgroup="LUCIFER",1x11
+https://www.seuanime.com/players/novo/?contentId=fcf993ba5f3fb584
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" pltv-subgroup="LUCIFER",1x12
+https://www.seuanime.com/players/novo/?contentId=5a06ef688325eccb
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2U7Iy5v.png" group-title="SERIES" pltv-subgroup="LUCIFER",1x13
+https://www.seuanime.com/players/novo/?contentId=2ac31829e6b481a6
