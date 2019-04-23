@@ -203,6 +203,14 @@
 </channel>
 
 <channel>
+<name>[COLOR white][B]Grimm[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/r7NIcZQ.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Fire-HD/Series/master/Grimm/Menu</externallink>
+<fanart></fanart>
+<info>Nick Burkhardt (David Giuntoli) é um detetive de homicídios que recebe novas responsabilidades após descobrir que é descendente de Grimm, uma sociedade secreta. O seu principal objetivo é conseguir encontrar um ponto de equilíbrio entre a vida real e a mitologia. A nova rotina traz desafios e perigos, sobretudo à noiva de Nick, Juliette Silverton (Bitsie Tulloch), e ao colega de trabalho, Hank Griffin (Russell Hornsby).</info>
+</channel>
+
+<channel>
 <name>[COLOR white][B]Hanna[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/00cdUlA.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Fire-HD/Series/master/Hanna/Menu</externallink>
