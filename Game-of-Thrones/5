@@ -1,25 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" ,[COLOR gold][B]GAME OF THRONES[/B][/COLOR] [COLOR chocolate][B]05ª Temporada [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES",[COLOR gold][B]GAME OF THRONES[/B][/COLOR] [COLOR chocolate][B]05ª Temporada [/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",5x1 
-https://www.seuanime.com/players/novo/?contentId=f6e6f89e3cce838f
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",5x2 
-https://www.seuanime.com/players/novo/?contentId=1711187bdf7efd8e
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",5x3 
-https://www.seuanime.com/players/novo/?contentId=243ae66d32843a3d
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",5x4 
-https://www.seuanime.com/players/novo/?contentId=53215814dde6a8a8
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",5x5 
-https://www.seuanime.com/players/novo/?contentId=f98fb4254f24eb58
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",5x6 
-https://www.seuanime.com/players/novo/?contentId=5dfd9a45b2602e49
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",5x7 
-https://www.seuanime.com/players/novo/?contentId=d505a7bf9fd7801b
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",5x8 
-https://www.seuanime.com/players/novo/?contentId=c1b42e02109735f7
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",5x9 
-https://www.seuanime.com/players/novo/?contentId=ce7e8e8cfdaeb21
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES" pltv-subgroup="GAME OF THRONES",5x10 
-https://www.seuanime.com/players/novo/?contentId=de204b5bc6071eb1
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES",5x1 
+https://www.seuanime.com/players/novo/?contentId=0f90e9c536efd3d4
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES",5x2 
+https://www.seuanime.com/players/novo/?contentId=b5124741853d9bd6
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES",5x3 
+https://www.seuanime.com/players/novo/?contentId=83eb02595666c7a8
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES",5x4 
+https://www.seuanime.com/players/novo/?contentId=74585096ff9bedb9
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES",5x5 
+https://www.seuanime.com/players/novo/?contentId=d383fe2d607f0905
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES",5x6 
+https://www.seuanime.com/players/novo/?contentId=ac7edadb66cf1e92
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES",5x7 
+https://www.seuanime.com/players/novo/?contentId=0c78655f131cef74
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES",5x8 
+https://www.seuanime.com/players/novo/?contentId=ee61799bce23173b
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES",5x9 
+https://www.seuanime.com/players/novo/?contentId=7b070847ebcc9a61
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/vh2weyrxp/Thumbnail_Game_Of_Thrones.png" group-title="SERIES",5x10 
+https://www.seuanime.com/players/novo/?contentId=d06f82291a86f7cf
