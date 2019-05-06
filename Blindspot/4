@@ -1,29 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="SERIES" ,[COLOR gold][B]BLINDSPOT[/B][/COLOR] [COLOR chocolate][B]04ª Temporada [/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot" ,[COLOR gold][B]BLINDSPOT[/B][/COLOR] [COLOR chocolate][B]04ª Temporada [/B][/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="SERIES" pltv-subgroup="BLINDSPOT",4x1(LEG)
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x1(LEG)
 https://www.seuanime.com/players/novo/?contentId=768aaa80f33b2974
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="SERIES" pltv-subgroup="BLINDSPOT",4x2(LEG)
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x2(LEG)
 https://www.seuanime.com/players/novo/?contentId=14f8544871e09de2
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="SERIES" pltv-subgroup="BLINDSPOT",4x3(LEG)
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x3(LEG)
 https://www.seuanime.com/players/novo/?contentId=612040713d7b29c7
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="SERIES" pltv-subgroup="BLINDSPOT",4x4(LEG)
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x4(LEG)
 https://www.seuanime.com/players/novo/?contentId=81a786199dbc547c
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="SERIES" pltv-subgroup="BLINDSPOT",4x5(LEG)
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x5(LEG)
 https://www.seuanime.com/players/novo/?contentId=14e8ae25c0882801
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="SERIES" pltv-subgroup="BLINDSPOT",4x6(LEG)
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x6(LEG)
 https://www.seuanime.com/players/novo/?contentId=7e8bff289448de8b
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="SERIES" pltv-subgroup="BLINDSPOT",4x7(LEG)
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x7(LEG)
 https://www.seuanime.com/players/novo/?contentId=15909c974acffeed
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="SERIES" pltv-subgroup="BLINDSPOT",4x8(LEG)
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x8(LEG)
 https://www.seuanime.com/players/novo/?contentId=945e33af36cc447c
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="SERIES" pltv-subgroup="BLINDSPOT",4x9(LEG)
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x9(LEG)
 https://www.seuanime.com/players/novo/?contentId=7d1ec45131eb21c1
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="SERIES" pltv-subgroup="BLINDSPOT",4x10(LEG)
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x10(LEG)
 https://www.seuanime.com/players/novo/?contentId=394e050a5e997c0a
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="SERIES" pltv-subgroup="BLINDSPOT",4x11(LEG)
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x11(LEG)
 https://www.seuanime.com/players/novo/?contentId=fd97454f3411e0e1
-#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="SERIES" pltv-subgroup="BLINDSPOT",4x12(LEG)
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x12(LEG)
 https://www.seuanime.com/players/novo/?contentId=f3129f58ec78bc73
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x13(LEG)
+https://www.seuanime.com/players/novo/?contentId=dd6c07b35ef26f7c
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x14(LEG)
+https://www.seuanime.com/players/novo/?contentId=660f349ce095c53e
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x15(LEG)
+https://www.seuanime.com/players/novo/?contentId=86c35e3a2e957786
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x16(LEG)
+https://www.seuanime.com/players/novo/?contentId=c0cef4bd14ebd50a
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x17(LEG)
+https://www.seuanime.com/players/novo/?contentId=df9dff6c67d00e12
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x18(LEG)
+https://www.seuanime.com/players/novo/?contentId=ce845fe9d3fcc27c
+#EXTINF:-1 tvg-logo="https://s20.postimg.cc/64xoi4aul/Thumbnail_Blindspot.png" group-title="Blindspot",4x19(LEG)
+https://www.seuanime.com/players/novo/?contentId=5f6594555744e9a9
